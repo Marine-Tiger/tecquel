@@ -2,7 +2,8 @@ import sys
 import glob
 import re
 from sklearn.feature_extraction.text import CountVectorizer
-from sklearn.metrics.pairwise import cosine_similarity
+from sklearn.metrics.pairwise import cosine_similarity, cosine_distances
+from sklearn.metrics import DistanceMetric
 from sklearn.metrics import pairwise_distances
 import os
 from pathlib import PurePath
@@ -15,7 +16,8 @@ def sim_by_file(liste_path, all_metrics=True):
   string_hyp = [open_file(x) for x in liste_path[1:]]
   res = get_simil([string_ref]+string_hyp, liste_path[1:], all_metrics)
   return res
-
+from sklearn.metrics import DistanceMetric
+from sklearn.metrics import pairwise_distances
 def open_file(path):
   with open(path, encoding="utf-8") as f:
     content = f.read()
@@ -54,12 +56,15 @@ def get_simil(corpus, names = [], all_metrics  = True):
       print("At least one hypothesis is empty")  
       1/0
   array = X.toarray()
-  simil = cosine_similarity(array)[0][1:]
-  dic = {"cosine": {names[i]:simil[i] for i in range(len(names))}}
+  #simil = cosine_similarity(array)[0][1:]
+  dist = cosine_distances(X)[0][1:]
+
+  dic = {"cosine": {names[i]:dist[i] for i in range(len(names))}}
+  #cosine results are 
   if all_metrics:
     for metric in list_metrics:
       simil = pairwise_distances(array, metric=metric)[0][1:]
-      dic[metric] =  {names[i]:1-simil[i] for i in range(len(names))}
+      dic[metric] =  {names[i]:1-dist[i] for i in range(len(names))}
   print("--Computing WER and CER--")
   for hypo, name in zip(corpus[1:], names):
     for metric, res in [["WER", pywer.wer([corpus[0]], [hypo])],
