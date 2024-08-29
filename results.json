@@ -1,222 +1,182 @@
 [
     {
         "cosine": {
-            "Mcfondue_1681-1682": 0.8655730876726057
+            "Models_transcriptions/Mcfondue_1681-1683": 0.12465460322884792
         },
         "dice": {
-            "Mcfondue_1681-1682": 0.43128760529482546
+            "Models_transcriptions/Mcfondue_1681-1683": 0.8753453967711521
         },
         "jaccard": {
-            "Mcfondue_1681-1682": 0.2749309604173059
+            "Models_transcriptions/Mcfondue_1681-1683": 0.8753453967711521
         },
         "braycurtis": {
-            "Mcfondue_1681-1682": 0.5423907974506451
+            "Models_transcriptions/Mcfondue_1681-1683": 0.8753453967711521
         },
         "WER": {
-            "Mcfondue_1681-1682": 78.08366106542725
+            "Models_transcriptions/Mcfondue_1681-1683": 80.15050404657106
         },
         "CER": {
-            "Mcfondue_1681-1682": 33.55011244150003
+            "Models_transcriptions/Mcfondue_1681-1683": 39.11844397135668
         }
     },
     {
         "cosine": {
-            "RCF17e-18e_1681-1682": 0.9661167385765325
+            "Models_transcriptions/Mcfondue_1691": 0.1367385905187568
         },
         "dice": {
-            "RCF17e-18e_1681-1682": 0.6461250073223596
+            "Models_transcriptions/Mcfondue_1691": 0.8632614094812432
         },
         "jaccard": {
-            "RCF17e-18e_1681-1682": 0.4772412599515403
+            "Models_transcriptions/Mcfondue_1691": 0.8632614094812432
         },
         "braycurtis": {
-            "RCF17e-18e_1681-1682": 0.7666360788532735
+            "Models_transcriptions/Mcfondue_1691": 0.8632614094812432
         },
         "WER": {
-            "RCF17e-18e_1681-1682": 46.728637826242405
+            "Models_transcriptions/Mcfondue_1691": 75.90738423028786
         },
         "CER": {
-            "RCF17e-18e_1681-1682": 15.620251625843311
+            "Models_transcriptions/Mcfondue_1691": 30.413082722735478
         }
     },
     {
         "cosine": {
-            "Mcfondue_1681-1683": 0.8740091144910183
+            "Models_transcriptions/Mcfondue_1784": 0.04060980609250797
         },
         "dice": {
-            "Mcfondue_1681-1683": 0.40601503759398494
+            "Models_transcriptions/Mcfondue_1784": 0.959390193907492
         },
         "jaccard": {
-            "Mcfondue_1681-1683": 0.2547169811320755
+            "Models_transcriptions/Mcfondue_1784": 0.959390193907492
         },
         "braycurtis": {
-            "Mcfondue_1681-1683": 0.5550922585930718
+            "Models_transcriptions/Mcfondue_1784": 0.959390193907492
         },
         "WER": {
-            "Mcfondue_1681-1683": 77.49652294853963
+            "Models_transcriptions/Mcfondue_1784": 38.53536226871866
         },
         "CER": {
-            "Mcfondue_1681-1683": 35.722236695639815
+            "Models_transcriptions/Mcfondue_1784": 9.93744818750471
         }
     },
     {
         "cosine": {
-            "RCF_17e_1681-1683": 0.9556004581712675
+            "Models_transcriptions/Mcfondue_1681-1784": 0.06188785730130775
         },
         "dice": {
-            "RCF_17e_1681-1683": 0.5486059314508969
+            "Models_transcriptions/Mcfondue_1681-1784": 0.9381121426986923
         },
         "jaccard": {
-            "RCF_17e_1681-1683": 0.37798551292090843
+            "Models_transcriptions/Mcfondue_1681-1784": 0.9381121426986923
         },
         "braycurtis": {
-            "RCF_17e_1681-1683": 0.7234026634744875
+            "Models_transcriptions/Mcfondue_1681-1784": 0.9381121426986923
         },
         "WER": {
-            "RCF_17e_1681-1683": 57.48261474269819
+            "Models_transcriptions/Mcfondue_1681-1784": 60.80436855335009
         },
         "CER": {
-            "RCF_17e_1681-1683": 22.35037775619923
+            "Models_transcriptions/Mcfondue_1681-1784": 23.51752324206177
         }
     },
     {
         "cosine": {
-            "RCF17e_50p": 0.9461793529411282
+            "Models_transcriptions/Mcfondue_1756-1758": 0.5706463709667329
         },
         "dice": {
-            "RCF17e_50p": 0.5091284387344746
+            "Models_transcriptions/Mcfondue_1756-1758": 0.4293536290332671
         },
         "jaccard": {
-            "RCF17e_50p": 0.34149718323307554
+            "Models_transcriptions/Mcfondue_1756-1758": 0.4293536290332671
         },
         "braycurtis": {
-            "RCF17e_50p": 0.6956751253723464
+            "Models_transcriptions/Mcfondue_1756-1758": 0.4293536290332671
         },
         "WER": {
-            "RCF17e_50p": 60.61196105702364
+            "Models_transcriptions/Mcfondue_1756-1758": 94.7331705615626
         },
         "CER": {
-            "RCF17e_50p": 24.465338796390594
+            "Models_transcriptions/Mcfondue_1756-1758": 35.132839985442196
         }
     },
     {
         "cosine": {
-            "RCF17e_50p": 0.05386098228206759
+            "Models_transcriptions/Mcfondue_1700": 0.1793514839560576
         },
         "dice": {
-            "RCF17e_50p": 0.9461390177179324
+            "Models_transcriptions/Mcfondue_1700": 0.8206485160439424
         },
         "jaccard": {
-            "RCF17e_50p": 0.9461390177179324
+            "Models_transcriptions/Mcfondue_1700": 0.8206485160439424
         },
         "braycurtis": {
-            "RCF17e_50p": 0.9461390177179324
+            "Models_transcriptions/Mcfondue_1700": 0.8206485160439424
         },
         "WER": {
-            "RCF17e_50p": 60.45087670470359
+            "Models_transcriptions/Mcfondue_1700": 78.80676758682101
         },
         "CER": {
-            "RCF17e_50p": 23.76753886992795
+            "Models_transcriptions/Mcfondue_1700": 31.88532982302179
         }
     },
     {
         "cosine": {
-            "Mcfondue_1681-1682": 0.13442691232736093
+            "Models_transcriptions/RCFv1_1700": 0.1791755747717989
         },
         "dice": {
-            "Mcfondue_1681-1682": 0.8655730876726391
+            "Models_transcriptions/RCFv1_1700": 0.8208244252282011
         },
         "jaccard": {
-            "Mcfondue_1681-1682": 0.8655730876726391
+            "Models_transcriptions/RCFv1_1700": 0.8208244252282011
         },
         "braycurtis": {
-            "Mcfondue_1681-1682": 0.8655730876726391
+            "Models_transcriptions/RCFv1_1700": 0.8208244252282011
         },
         "WER": {
-            "Mcfondue_1681-1682": 78.08366106542725
+            "Models_transcriptions/RCFv1_1700": 77.3820124666073
         },
         "CER": {
-            "Mcfondue_1681-1682": 33.55011244150003
+            "Models_transcriptions/RCFv1_1700": 32.441129150212085
         }
     },
     {
         "cosine": {
-            "Mcfondue_1691": 0.1367385905187568
+            "Models_transcriptions/Mcfondue_1757": 0.033486970116001324
         },
         "dice": {
-            "Mcfondue_1691": 0.8632614094812432
+            "Models_transcriptions/Mcfondue_1757": 0.9665130298839987
         },
         "jaccard": {
-            "Mcfondue_1691": 0.8632614094812432
+            "Models_transcriptions/Mcfondue_1757": 0.9665130298839987
         },
         "braycurtis": {
-            "Mcfondue_1691": 0.8632614094812432
+            "Models_transcriptions/Mcfondue_1757": 0.9665130298839987
         },
         "WER": {
-            "Mcfondue_1691": 75.90738423028786
+            "Models_transcriptions/Mcfondue_1757": 38.45699083653562
         },
         "CER": {
-            "Mcfondue_1691": 30.413082722735478
+            "Models_transcriptions/Mcfondue_1757": 9.704210986449075
         }
     },
     {
         "cosine": {
-            "RCF17e_18e_1691": 0.13527509342709776
+            "Models_transcriptions/RCFv1_1757": 0.020870477156761713
         },
         "dice": {
-            "RCF17e_18e_1691": 0.8647249065729022
+            "Models_transcriptions/RCFv1_1757": 0.9791295228432383
         },
         "jaccard": {
-            "RCF17e_18e_1691": 0.8647249065729022
+            "Models_transcriptions/RCFv1_1757": 0.9791295228432383
         },
         "braycurtis": {
-            "RCF17e_18e_1691": 0.8647249065729022
+            "Models_transcriptions/RCFv1_1757": 0.9791295228432383
         },
         "WER": {
-            "RCF17e_18e_1691": 74.34292866082603
+            "Models_transcriptions/RCFv1_1757": 35.94442802246527
         },
         "CER": {
-            "RCF17e_18e_1691": 28.35297865562281
-        }
-    },
-    {
-        "cosine": {
-            "RCF17e_2_1691": 0.10871622171642281
-        },
-        "dice": {
-            "RCF17e_2_1691": 0.8912837782835772
-        },
-        "jaccard": {
-            "RCF17e_2_1691": 0.8912837782835772
-        },
-        "braycurtis": {
-            "RCF17e_2_1691": 0.8912837782835772
-        },
-        "WER": {
-            "RCF17e_2_1691": 66.270337922403
-        },
-        "CER": {
-            "RCF17e_2_1691": 26.802591058723586
-        }
-    },
-    {
-        "cosine": {
-            "Denisa_model": 0.12795517051930738
-        },
-        "dice": {
-            "Denisa_model": 0.8720448294806926
-        },
-        "jaccard": {
-            "Denisa_model": 0.8720448294806926
-        },
-        "braycurtis": {
-            "Denisa_model": 0.8720448294806926
-        },
-        "WER": {
-            "Denisa_model": 70.96370463078848
-        },
-        "CER": {
-            "Denisa_model": 29.574174365509187
+            "Models_transcriptions/RCFv1_1757": 9.427364126475302
         }
     }
 ]

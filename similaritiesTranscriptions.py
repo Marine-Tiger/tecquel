@@ -8,8 +8,8 @@ results_file = Path("results.json")
 
 warnings.filterwarnings('ignore')
 
-path_ref = "Spinec_1691"
-path_hyp1 = "Denisa_model"
+path_ref = "Original_transcriptions/R52_22"
+path_hyp1 = "Models_transcriptions/RCFv1_1757"
 
 #le paramètre all_metrics peut être à False pour limiter le nombre de mesures calculées
 
