@@ -8,8 +8,8 @@ results_file = Path("results.json")
 
 warnings.filterwarnings('ignore')
 
-path_ref = "Original_transcriptions/Spinec_1700"
-path_hyp1 = "Models_transcriptions/RCFv4_1700"
+path_ref = "Original_transcriptions/1757"
+path_hyp1 = "Models_transcriptions/RCFv1_1757"
 
 #le paramètre all_metrics peut être à False pour limiter le nombre de mesures calculées
 

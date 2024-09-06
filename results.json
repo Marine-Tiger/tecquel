@@ -121,22 +121,62 @@
     },
     {
         "cosine": {
-            "Models_transcriptions/RCFv1_1700": 0.1791755747717989
+            "Models_transcriptions/Mcfondue_1757": 0.033486970116001324
         },
         "dice": {
-            "Models_transcriptions/RCFv1_1700": 0.8208244252282011
+            "Models_transcriptions/Mcfondue_1757": 0.9665130298839987
         },
         "jaccard": {
-            "Models_transcriptions/RCFv1_1700": 0.8208244252282011
+            "Models_transcriptions/Mcfondue_1757": 0.9665130298839987
         },
         "braycurtis": {
-            "Models_transcriptions/RCFv1_1700": 0.8208244252282011
+            "Models_transcriptions/Mcfondue_1757": 0.9665130298839987
         },
         "WER": {
-            "Models_transcriptions/RCFv1_1700": 77.3820124666073
+            "Models_transcriptions/Mcfondue_1757": 38.45699083653562
         },
         "CER": {
-            "Models_transcriptions/RCFv1_1700": 32.441129150212085
+            "Models_transcriptions/Mcfondue_1757": 9.704210986449075
+        }
+    },
+    {
+        "cosine": {
+            "Models_transcriptions/Mcfondue_1693_1700": 0.10996224661957921
+        },
+        "dice": {
+            "Models_transcriptions/Mcfondue_1693_1700": 0.8900377533804208
+        },
+        "jaccard": {
+            "Models_transcriptions/Mcfondue_1693_1700": 0.8900377533804208
+        },
+        "braycurtis": {
+            "Models_transcriptions/Mcfondue_1693_1700": 0.8900377533804208
+        },
+        "WER": {
+            "Models_transcriptions/Mcfondue_1693_1700": 76.21822033898304
+        },
+        "CER": {
+            "Models_transcriptions/Mcfondue_1693_1700": 29.225648990459284
+        }
+    },
+    {
+        "cosine": {
+            "Models_transcriptions/RCFv1_1693_1700": 0.09450125206586801
+        },
+        "dice": {
+            "Models_transcriptions/RCFv1_1693_1700": 0.905498747934132
+        },
+        "jaccard": {
+            "Models_transcriptions/RCFv1_1693_1700": 0.905498747934132
+        },
+        "braycurtis": {
+            "Models_transcriptions/RCFv1_1693_1700": 0.905498747934132
+        },
+        "WER": {
+            "Models_transcriptions/RCFv1_1693_1700": 69.57097457627118
+        },
+        "CER": {
+            "Models_transcriptions/RCFv1_1693_1700": 26.647437319724872
         }
     },
     {
@@ -161,142 +201,122 @@
     },
     {
         "cosine": {
-            "Models_transcriptions/RCFv1_1757": 0.020870477156761713
+            "Models_transcriptions/RCFv1_1757": 0.019194566268846636
         },
         "dice": {
-            "Models_transcriptions/RCFv1_1757": 0.9791295228432383
+            "Models_transcriptions/RCFv1_1757": 0.9808054337311534
         },
         "jaccard": {
-            "Models_transcriptions/RCFv1_1757": 0.9791295228432383
+            "Models_transcriptions/RCFv1_1757": 0.9808054337311534
         },
         "braycurtis": {
-            "Models_transcriptions/RCFv1_1757": 0.9791295228432383
+            "Models_transcriptions/RCFv1_1757": 0.9808054337311534
         },
         "WER": {
-            "Models_transcriptions/RCFv1_1757": 35.94442802246527
+            "Models_transcriptions/RCFv1_1757": 43.71859296482412
         },
         "CER": {
-            "Models_transcriptions/RCFv1_1757": 9.427364126475302
+            "Models_transcriptions/RCFv1_1757": 17.349069891689737
         }
     },
     {
         "cosine": {
-            "Models_transcriptions/McFrenchv3_1681-1683": 0.11724430245464112
+            "Models_transcriptions/RCFv1_1757": 0.01918054519201018
         },
         "dice": {
-            "Models_transcriptions/McFrenchv3_1681-1683": 0.8827556975453589
+            "Models_transcriptions/RCFv1_1757": 0.9808194548079898
         },
         "jaccard": {
-            "Models_transcriptions/McFrenchv3_1681-1683": 0.8827556975453589
+            "Models_transcriptions/RCFv1_1757": 0.9808194548079898
         },
         "braycurtis": {
-            "Models_transcriptions/McFrenchv3_1681-1683": 0.8827556975453589
+            "Models_transcriptions/RCFv1_1757": 0.9808194548079898
         },
         "WER": {
-            "Models_transcriptions/McFrenchv3_1681-1683": 75.99034502342752
+            "Models_transcriptions/RCFv1_1757": 34.05261602128289
         },
         "CER": {
-            "Models_transcriptions/McFrenchv3_1681-1683": 37.49274240371589
+            "Models_transcriptions/RCFv1_1757": 8.140269075720045
         }
     },
     {
         "cosine": {
-            "Models_transcriptions/RCFv2_1700": 0.1747988417871551
+            "Models_transcriptions/Mcfondue_1757": 0.03347844536818312
         },
         "dice": {
-            "Models_transcriptions/RCFv2_1700": 0.8252011582128449
+            "Models_transcriptions/Mcfondue_1757": 0.9665215546318169
         },
         "jaccard": {
-            "Models_transcriptions/RCFv2_1700": 0.8252011582128449
+            "Models_transcriptions/Mcfondue_1757": 0.9665215546318169
         },
         "braycurtis": {
-            "Models_transcriptions/RCFv2_1700": 0.8252011582128449
+            "Models_transcriptions/Mcfondue_1757": 0.9665215546318169
         },
         "WER": {
-            "Models_transcriptions/RCFv2_1700": 76.7586821015138
+            "Models_transcriptions/Mcfondue_1757": 46.97014484185634
         },
         "CER": {
-            "Models_transcriptions/RCFv2_1700": 32.923796986982595
+            "Models_transcriptions/Mcfondue_1757": 18.665306717179075
         }
     },
     {
         "cosine": {
-            "Models_transcriptions/RCFv2_1757": 0.02280417840315796
+            "Models_transcriptions/Mcfondue_1757": 0.0328727729300502
         },
         "dice": {
-            "Models_transcriptions/RCFv2_1757": 0.977195821596842
+            "Models_transcriptions/Mcfondue_1757": 0.9671272270699498
         },
         "jaccard": {
-            "Models_transcriptions/RCFv2_1757": 0.977195821596842
+            "Models_transcriptions/Mcfondue_1757": 0.9671272270699498
         },
         "braycurtis": {
-            "Models_transcriptions/RCFv2_1757": 0.977195821596842
+            "Models_transcriptions/Mcfondue_1757": 0.9671272270699498
         },
         "WER": {
-            "Models_transcriptions/RCFv2_1757": 39.49157552468223
+            "Models_transcriptions/Mcfondue_1757": 38.22051433638782
         },
         "CER": {
-            "Models_transcriptions/RCFv2_1757": 10.588178153382874
+            "Models_transcriptions/Mcfondue_1757": 9.233085628248094
         }
     },
     {
         "cosine": {
-            "Models_transcriptions/RCFv3_1757": 0.03575962305564917
+            "Models_transcriptions/Mcfondue_1757": 0.0328727729300502
         },
         "dice": {
-            "Models_transcriptions/RCFv3_1757": 0.9642403769443508
+            "Models_transcriptions/Mcfondue_1757": 0.9671272270699498
         },
         "jaccard": {
-            "Models_transcriptions/RCFv3_1757": 0.9642403769443508
+            "Models_transcriptions/Mcfondue_1757": 0.9671272270699498
         },
         "braycurtis": {
-            "Models_transcriptions/RCFv3_1757": 0.9642403769443508
+            "Models_transcriptions/Mcfondue_1757": 0.9671272270699498
         },
         "WER": {
-            "Models_transcriptions/RCFv3_1757": 46.29027490393142
+            "Models_transcriptions/Mcfondue_1757": 38.22051433638782
         },
         "CER": {
-            "Models_transcriptions/RCFv3_1757": 13.924911360435184
+            "Models_transcriptions/Mcfondue_1757": 9.233085628248094
         }
     },
     {
         "cosine": {
-            "Models_transcriptions/RCFv4_1757": 0.019180465517655954
+            "Models_transcriptions/RCFv1_1757": 0.01918054519201018
         },
         "dice": {
-            "Models_transcriptions/RCFv4_1757": 0.980819534482344
+            "Models_transcriptions/RCFv1_1757": 0.9808194548079898
         },
         "jaccard": {
-            "Models_transcriptions/RCFv4_1757": 0.980819534482344
+            "Models_transcriptions/RCFv1_1757": 0.9808194548079898
         },
         "braycurtis": {
-            "Models_transcriptions/RCFv4_1757": 0.980819534482344
+            "Models_transcriptions/RCFv1_1757": 0.9808194548079898
         },
         "WER": {
-            "Models_transcriptions/RCFv4_1757": 34.05261602128289
+            "Models_transcriptions/RCFv1_1757": 34.05261602128289
         },
         "CER": {
-            "Models_transcriptions/RCFv4_1757": 8.140269075720045
-        }
-    },
-    {
-        "cosine": {
-            "Models_transcriptions/RCFv4_1700": 0.1595343267425725
-        },
-        "dice": {
-            "Models_transcriptions/RCFv4_1700": 0.8404656732574275
-        },
-        "jaccard": {
-            "Models_transcriptions/RCFv4_1700": 0.8404656732574275
-        },
-        "braycurtis": {
-            "Models_transcriptions/RCFv4_1700": 0.8404656732574275
-        },
-        "WER": {
-            "Models_transcriptions/RCFv4_1700": 73.37488869100623
-        },
-        "CER": {
-            "Models_transcriptions/RCFv4_1700": 29.267222465993857
+            "Models_transcriptions/RCFv1_1757": 8.140269075720045
         }
     }
 ]
