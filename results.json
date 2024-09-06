@@ -178,5 +178,125 @@
         "CER": {
             "Models_transcriptions/RCFv1_1757": 9.427364126475302
         }
+    },
+    {
+        "cosine": {
+            "Models_transcriptions/McFrenchv3_1681-1683": 0.11724430245464112
+        },
+        "dice": {
+            "Models_transcriptions/McFrenchv3_1681-1683": 0.8827556975453589
+        },
+        "jaccard": {
+            "Models_transcriptions/McFrenchv3_1681-1683": 0.8827556975453589
+        },
+        "braycurtis": {
+            "Models_transcriptions/McFrenchv3_1681-1683": 0.8827556975453589
+        },
+        "WER": {
+            "Models_transcriptions/McFrenchv3_1681-1683": 75.99034502342752
+        },
+        "CER": {
+            "Models_transcriptions/McFrenchv3_1681-1683": 37.49274240371589
+        }
+    },
+    {
+        "cosine": {
+            "Models_transcriptions/RCFv2_1700": 0.1747988417871551
+        },
+        "dice": {
+            "Models_transcriptions/RCFv2_1700": 0.8252011582128449
+        },
+        "jaccard": {
+            "Models_transcriptions/RCFv2_1700": 0.8252011582128449
+        },
+        "braycurtis": {
+            "Models_transcriptions/RCFv2_1700": 0.8252011582128449
+        },
+        "WER": {
+            "Models_transcriptions/RCFv2_1700": 76.7586821015138
+        },
+        "CER": {
+            "Models_transcriptions/RCFv2_1700": 32.923796986982595
+        }
+    },
+    {
+        "cosine": {
+            "Models_transcriptions/RCFv2_1757": 0.02280417840315796
+        },
+        "dice": {
+            "Models_transcriptions/RCFv2_1757": 0.977195821596842
+        },
+        "jaccard": {
+            "Models_transcriptions/RCFv2_1757": 0.977195821596842
+        },
+        "braycurtis": {
+            "Models_transcriptions/RCFv2_1757": 0.977195821596842
+        },
+        "WER": {
+            "Models_transcriptions/RCFv2_1757": 39.49157552468223
+        },
+        "CER": {
+            "Models_transcriptions/RCFv2_1757": 10.588178153382874
+        }
+    },
+    {
+        "cosine": {
+            "Models_transcriptions/RCFv3_1757": 0.03575962305564917
+        },
+        "dice": {
+            "Models_transcriptions/RCFv3_1757": 0.9642403769443508
+        },
+        "jaccard": {
+            "Models_transcriptions/RCFv3_1757": 0.9642403769443508
+        },
+        "braycurtis": {
+            "Models_transcriptions/RCFv3_1757": 0.9642403769443508
+        },
+        "WER": {
+            "Models_transcriptions/RCFv3_1757": 46.29027490393142
+        },
+        "CER": {
+            "Models_transcriptions/RCFv3_1757": 13.924911360435184
+        }
+    },
+    {
+        "cosine": {
+            "Models_transcriptions/RCFv4_1757": 0.019180465517655954
+        },
+        "dice": {
+            "Models_transcriptions/RCFv4_1757": 0.980819534482344
+        },
+        "jaccard": {
+            "Models_transcriptions/RCFv4_1757": 0.980819534482344
+        },
+        "braycurtis": {
+            "Models_transcriptions/RCFv4_1757": 0.980819534482344
+        },
+        "WER": {
+            "Models_transcriptions/RCFv4_1757": 34.05261602128289
+        },
+        "CER": {
+            "Models_transcriptions/RCFv4_1757": 8.140269075720045
+        }
+    },
+    {
+        "cosine": {
+            "Models_transcriptions/RCFv4_1700": 0.1595343267425725
+        },
+        "dice": {
+            "Models_transcriptions/RCFv4_1700": 0.8404656732574275
+        },
+        "jaccard": {
+            "Models_transcriptions/RCFv4_1700": 0.8404656732574275
+        },
+        "braycurtis": {
+            "Models_transcriptions/RCFv4_1700": 0.8404656732574275
+        },
+        "WER": {
+            "Models_transcriptions/RCFv4_1700": 73.37488869100623
+        },
+        "CER": {
+            "Models_transcriptions/RCFv4_1700": 29.267222465993857
+        }
     }
 ]
