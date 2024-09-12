@@ -1,0 +1,122 @@
+[
+    {
+        "cosine": {
+            "Models_transcriptions/Llama3.1_tests/RCFv4_1692s1": 0.34271924255007014
+        },
+        "dice": {
+            "Models_transcriptions/Llama3.1_tests/RCFv4_1692s1": 0.6572807574499299
+        },
+        "jaccard": {
+            "Models_transcriptions/Llama3.1_tests/RCFv4_1692s1": 0.6572807574499299
+        },
+        "braycurtis": {
+            "Models_transcriptions/Llama3.1_tests/RCFv4_1692s1": 0.6572807574499299
+        },
+        "WER": {
+            "Models_transcriptions/Llama3.1_tests/RCFv4_1692s1": 67.3913043478261
+        },
+        "CER": {
+            "Models_transcriptions/Llama3.1_tests/RCFv4_1692s1": 22.552447552447553
+        }
+    },
+    {
+        "cosine": {
+            "Models_transcriptions/Llama3.1_tests/RCFv4_1692s2": 0.17370315955385163
+        },
+        "dice": {
+            "Models_transcriptions/Llama3.1_tests/RCFv4_1692s2": 0.8262968404461484
+        },
+        "jaccard": {
+            "Models_transcriptions/Llama3.1_tests/RCFv4_1692s2": 0.8262968404461484
+        },
+        "braycurtis": {
+            "Models_transcriptions/Llama3.1_tests/RCFv4_1692s2": 0.8262968404461484
+        },
+        "WER": {
+            "Models_transcriptions/Llama3.1_tests/RCFv4_1692s2": 61.82795698924731
+        },
+        "CER": {
+            "Models_transcriptions/Llama3.1_tests/RCFv4_1692s2": 21.066907775768534
+        }
+    },
+    {
+        "cosine": {
+            "Models_transcriptions/Llama3.1_tests/RCFv4_1692s3": 0.2608625045491001
+        },
+        "dice": {
+            "Models_transcriptions/Llama3.1_tests/RCFv4_1692s3": 0.7391374954508999
+        },
+        "jaccard": {
+            "Models_transcriptions/Llama3.1_tests/RCFv4_1692s3": 0.7391374954508999
+        },
+        "braycurtis": {
+            "Models_transcriptions/Llama3.1_tests/RCFv4_1692s3": 0.7391374954508999
+        },
+        "WER": {
+            "Models_transcriptions/Llama3.1_tests/RCFv4_1692s3": 67.12328767123287
+        },
+        "CER": {
+            "Models_transcriptions/Llama3.1_tests/RCFv4_1692s3": 22.553699284009546
+        }
+    },
+    {
+        "cosine": {
+            "Models_transcriptions/Llama3.1_tests/llama3-1_1692_v1": 0.4735502769383799
+        },
+        "dice": {
+            "Models_transcriptions/Llama3.1_tests/llama3-1_1692_v1": 0.5264497230616201
+        },
+        "jaccard": {
+            "Models_transcriptions/Llama3.1_tests/llama3-1_1692_v1": 0.5264497230616201
+        },
+        "braycurtis": {
+            "Models_transcriptions/Llama3.1_tests/llama3-1_1692_v1": 0.5264497230616201
+        },
+        "WER": {
+            "Models_transcriptions/Llama3.1_tests/llama3-1_1692_v1": 67.3913043478261
+        },
+        "CER": {
+            "Models_transcriptions/Llama3.1_tests/llama3-1_1692_v1": 36.71328671328671
+        }
+    },
+    {
+        "cosine": {
+            "Models_transcriptions/Llama3.1_tests/llama3-1_1692_v2": 0.20459637614728243
+        },
+        "dice": {
+            "Models_transcriptions/Llama3.1_tests/llama3-1_1692_v2": 0.7954036238527176
+        },
+        "jaccard": {
+            "Models_transcriptions/Llama3.1_tests/llama3-1_1692_v2": 0.7954036238527176
+        },
+        "braycurtis": {
+            "Models_transcriptions/Llama3.1_tests/llama3-1_1692_v2": 0.7954036238527176
+        },
+        "WER": {
+            "Models_transcriptions/Llama3.1_tests/llama3-1_1692_v2": 55.913978494623656
+        },
+        "CER": {
+            "Models_transcriptions/Llama3.1_tests/llama3-1_1692_v2": 30.018083182640144
+        }
+    },
+    {
+        "cosine": {
+            "Models_transcriptions/Llama3.1_tests/llama3-1_1692_v3": 0.3661115211982061
+        },
+        "dice": {
+            "Models_transcriptions/Llama3.1_tests/llama3-1_1692_v3": 0.6338884788017939
+        },
+        "jaccard": {
+            "Models_transcriptions/Llama3.1_tests/llama3-1_1692_v3": 0.6338884788017939
+        },
+        "braycurtis": {
+            "Models_transcriptions/Llama3.1_tests/llama3-1_1692_v3": 0.6338884788017939
+        },
+        "WER": {
+            "Models_transcriptions/Llama3.1_tests/llama3-1_1692_v3": 70.54794520547945
+        },
+        "CER": {
+            "Models_transcriptions/Llama3.1_tests/llama3-1_1692_v3": 45.94272076372315
+        }
+    }
+]

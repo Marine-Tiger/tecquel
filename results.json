@@ -278,5 +278,85 @@
         "CER": {
             "Models_transcriptions/RCFv3_1693_1700": 13.33925005546927
         }
+    },
+    {
+        "cosine": {
+            "Models_transcriptions/RCFv4_1757": 0.018352955274433258
+        },
+        "dice": {
+            "Models_transcriptions/RCFv4_1757": 0.9816470447255667
+        },
+        "jaccard": {
+            "Models_transcriptions/RCFv4_1757": 0.9816470447255667
+        },
+        "braycurtis": {
+            "Models_transcriptions/RCFv4_1757": 0.9816470447255667
+        },
+        "WER": {
+            "Models_transcriptions/RCFv4_1757": 35.116760271947975
+        },
+        "CER": {
+            "Models_transcriptions/RCFv4_1757": 8.48025644761766
+        }
+    },
+    {
+        "cosine": {
+            "Models_transcriptions/Mcfondue_1692": 0.15686900889113486
+        },
+        "dice": {
+            "Models_transcriptions/Mcfondue_1692": 0.8431309911088651
+        },
+        "jaccard": {
+            "Models_transcriptions/Mcfondue_1692": 0.8431309911088651
+        },
+        "braycurtis": {
+            "Models_transcriptions/Mcfondue_1692": 0.8431309911088651
+        },
+        "WER": {
+            "Models_transcriptions/Mcfondue_1692": 79.57413249211356
+        },
+        "CER": {
+            "Models_transcriptions/Mcfondue_1692": 30.767174552258755
+        }
+    },
+    {
+        "cosine": {
+            "Models_transcriptions/RCFv1_1692": 0.12970338288942496
+        },
+        "dice": {
+            "Models_transcriptions/RCFv1_1692": 0.870296617110575
+        },
+        "jaccard": {
+            "Models_transcriptions/RCFv1_1692": 0.870296617110575
+        },
+        "braycurtis": {
+            "Models_transcriptions/RCFv1_1692": 0.870296617110575
+        },
+        "WER": {
+            "Models_transcriptions/RCFv1_1692": 70.82018927444796
+        },
+        "CER": {
+            "Models_transcriptions/RCFv1_1692": 27.666399358460303
+        }
+    },
+    {
+        "cosine": {
+            "Models_transcriptions/RCFv4_1692": 0.09785159257961007
+        },
+        "dice": {
+            "Models_transcriptions/RCFv4_1692": 0.9021484074203899
+        },
+        "jaccard": {
+            "Models_transcriptions/RCFv4_1692": 0.9021484074203899
+        },
+        "braycurtis": {
+            "Models_transcriptions/RCFv4_1692": 0.9021484074203899
+        },
+        "WER": {
+            "Models_transcriptions/RCFv4_1692": 66.24605678233438
+        },
+        "CER": {
+            "Models_transcriptions/RCFv4_1692": 23.40283346698744
+        }
     }
 ]
