@@ -358,5 +358,305 @@
         "CER": {
             "Models_transcriptions/RCFv4_1692": 23.40283346698744
         }
+    },
+    {
+        "cosine": {
+            "Models_transcriptions/Mcfondue/Mcfondue_1706": 0.19800321859632775
+        },
+        "dice": {
+            "Models_transcriptions/Mcfondue/Mcfondue_1706": 0.8019967814036723
+        },
+        "jaccard": {
+            "Models_transcriptions/Mcfondue/Mcfondue_1706": 0.8019967814036723
+        },
+        "braycurtis": {
+            "Models_transcriptions/Mcfondue/Mcfondue_1706": 0.8019967814036723
+        },
+        "WER": {
+            "Models_transcriptions/Mcfondue/Mcfondue_1706": 79.05236907730674
+        },
+        "CER": {
+            "Models_transcriptions/Mcfondue/Mcfondue_1706": 31.88434695912263
+        }
+    },
+    {
+        "cosine": {
+            "Models_transcriptions/RCF/RCFv1_1706": 0.20277695454816647
+        },
+        "dice": {
+            "Models_transcriptions/RCF/RCFv1_1706": 0.7972230454518335
+        },
+        "jaccard": {
+            "Models_transcriptions/RCF/RCFv1_1706": 0.7972230454518335
+        },
+        "braycurtis": {
+            "Models_transcriptions/RCF/RCFv1_1706": 0.7972230454518335
+        },
+        "WER": {
+            "Models_transcriptions/RCF/RCFv1_1706": 76.55860349127182
+        },
+        "CER": {
+            "Models_transcriptions/RCF/RCFv1_1706": 30.428713858424725
+        }
+    },
+    {
+        "cosine": {
+            "Models_transcriptions/RCF/RCFv4_1706": 0.16730214195280402
+        },
+        "dice": {
+            "Models_transcriptions/RCF/RCFv4_1706": 0.832697858047196
+        },
+        "jaccard": {
+            "Models_transcriptions/RCF/RCFv4_1706": 0.832697858047196
+        },
+        "braycurtis": {
+            "Models_transcriptions/RCF/RCFv4_1706": 0.832697858047196
+        },
+        "WER": {
+            "Models_transcriptions/RCF/RCFv4_1706": 71.19700748129675
+        },
+        "CER": {
+            "Models_transcriptions/RCF/RCFv4_1706": 27.517447657028914
+        }
+    },
+    {
+        "cosine": {
+            "Models_transcriptions/Mcfondue/Mcfondue_1693-1706-1757": 0.0522322161969303
+        },
+        "dice": {
+            "Models_transcriptions/Mcfondue/Mcfondue_1693-1706-1757": 0.9477677838030697
+        },
+        "jaccard": {
+            "Models_transcriptions/Mcfondue/Mcfondue_1693-1706-1757": 0.9477677838030697
+        },
+        "braycurtis": {
+            "Models_transcriptions/Mcfondue/Mcfondue_1693-1706-1757": 0.9477677838030697
+        },
+        "WER": {
+            "Models_transcriptions/Mcfondue/Mcfondue_1693-1706-1757": 95.3603520997616
+        },
+        "CER": {
+            "Models_transcriptions/Mcfondue/Mcfondue_1693-1706-1757": 61.48522033488484
+        }
+    },
+    {
+        "cosine": {
+            "Models_transcriptions/Mcfondue/Mcfondue_1692-1706-1757": 0.04034099214486986
+        },
+        "dice": {
+            "Models_transcriptions/Mcfondue/Mcfondue_1692-1706-1757": 0.9596590078551301
+        },
+        "jaccard": {
+            "Models_transcriptions/Mcfondue/Mcfondue_1692-1706-1757": 0.9596590078551301
+        },
+        "braycurtis": {
+            "Models_transcriptions/Mcfondue/Mcfondue_1692-1706-1757": 0.9596590078551301
+        },
+        "WER": {
+            "Models_transcriptions/Mcfondue/Mcfondue_1692-1706-1757": 53.841921877865396
+        },
+        "CER": {
+            "Models_transcriptions/Mcfondue/Mcfondue_1692-1706-1757": 17.53611799552681
+        }
+    },
+    {
+        "cosine": {
+            "Models_transcriptions/RCF/RCFv1_1692-1706-1757": 0.031631054130940806
+        },
+        "dice": {
+            "Models_transcriptions/RCF/RCFv1_1692-1706-1757": 0.9683689458690592
+        },
+        "jaccard": {
+            "Models_transcriptions/RCF/RCFv1_1692-1706-1757": 0.9683689458690592
+        },
+        "braycurtis": {
+            "Models_transcriptions/RCF/RCFv1_1692-1706-1757": 0.9683689458690592
+        },
+        "WER": {
+            "Models_transcriptions/RCF/RCFv1_1692-1706-1757": 48.853841921877866
+        },
+        "CER": {
+            "Models_transcriptions/RCF/RCFv1_1692-1706-1757": 15.934232001450765
+        }
+    },
+    {
+        "cosine": {
+            "Models_transcriptions/RCF/RCFv4_1692-1706-1757": 0.025670965759967634
+        },
+        "dice": {
+            "Models_transcriptions/RCF/RCFv4_1692-1706-1757": 0.9743290342400324
+        },
+        "jaccard": {
+            "Models_transcriptions/RCF/RCFv4_1692-1706-1757": 0.9743290342400324
+        },
+        "braycurtis": {
+            "Models_transcriptions/RCF/RCFv4_1692-1706-1757": 0.9743290342400324
+        },
+        "WER": {
+            "Models_transcriptions/RCF/RCFv4_1692-1706-1757": 47.66183752063085
+        },
+        "CER": {
+            "Models_transcriptions/RCF/RCFv4_1692-1706-1757": 14.740373571903524
+        }
+    },
+    {
+        "cosine": {
+            "Models_transcriptions/Mcfondue/Mcfondue_1688": 0.1258553372787189
+        },
+        "dice": {
+            "Models_transcriptions/Mcfondue/Mcfondue_1688": 0.8741446627212811
+        },
+        "jaccard": {
+            "Models_transcriptions/Mcfondue/Mcfondue_1688": 0.8741446627212811
+        },
+        "braycurtis": {
+            "Models_transcriptions/Mcfondue/Mcfondue_1688": 0.8741446627212811
+        },
+        "WER": {
+            "Models_transcriptions/Mcfondue/Mcfondue_1688": 71.41848976711363
+        },
+        "CER": {
+            "Models_transcriptions/Mcfondue/Mcfondue_1688": 28.650669239117327
+        }
+    },
+    {
+        "cosine": {
+            "Models_transcriptions/RCF/RCFv4_1688": 0.07795131412320644
+        },
+        "dice": {
+            "Models_transcriptions/RCF/RCFv4_1688": 0.9220486858767936
+        },
+        "jaccard": {
+            "Models_transcriptions/RCF/RCFv4_1688": 0.9220486858767936
+        },
+        "braycurtis": {
+            "Models_transcriptions/RCF/RCFv4_1688": 0.9220486858767936
+        },
+        "WER": {
+            "Models_transcriptions/RCF/RCFv4_1688": 58.433309809456595
+        },
+        "CER": {
+            "Models_transcriptions/RCF/RCFv4_1688": 20.72832509345231
+        }
+    },
+    {
+        "cosine": {
+            "Models_transcriptions/RCF/RCFv5_1688": 0.09529991180630815
+        },
+        "dice": {
+            "Models_transcriptions/RCF/RCFv5_1688": 0.9047000881936919
+        },
+        "jaccard": {
+            "Models_transcriptions/RCF/RCFv5_1688": 0.9047000881936919
+        },
+        "braycurtis": {
+            "Models_transcriptions/RCF/RCFv5_1688": 0.9047000881936919
+        },
+        "WER": {
+            "Models_transcriptions/RCF/RCFv5_1688": 62.17360621030346
+        },
+        "CER": {
+            "Models_transcriptions/RCF/RCFv5_1688": 24.972868684432655
+        }
+    },
+    {
+        "cosine": {
+            "Models_transcriptions/RCF/RCFv6_1688": 0.06968232313750644
+        },
+        "dice": {
+            "Models_transcriptions/RCF/RCFv6_1688": 0.9303176768624936
+        },
+        "jaccard": {
+            "Models_transcriptions/RCF/RCFv6_1688": 0.9303176768624936
+        },
+        "braycurtis": {
+            "Models_transcriptions/RCF/RCFv6_1688": 0.9303176768624936
+        },
+        "WER": {
+            "Models_transcriptions/RCF/RCFv6_1688": 56.386732533521524
+        },
+        "CER": {
+            "Models_transcriptions/RCF/RCFv6_1688": 19.01603762209092
+        }
+    },
+    {
+        "cosine": {
+            "Models_transcriptions/Mcfondue/Mcfondue_1756-1758": 0.5706463709667329
+        },
+        "dice": {
+            "Models_transcriptions/Mcfondue/Mcfondue_1756-1758": 0.4293536290332671
+        },
+        "jaccard": {
+            "Models_transcriptions/Mcfondue/Mcfondue_1756-1758": 0.4293536290332671
+        },
+        "braycurtis": {
+            "Models_transcriptions/Mcfondue/Mcfondue_1756-1758": 0.4293536290332671
+        },
+        "WER": {
+            "Models_transcriptions/Mcfondue/Mcfondue_1756-1758": 94.7331705615626
+        },
+        "CER": {
+            "Models_transcriptions/Mcfondue/Mcfondue_1756-1758": 35.132839985442196
+        }
+    },
+    {
+        "cosine": {
+            "Models_transcriptions/RCF/RCFv6_1756-1758": 0.2180044306804545
+        },
+        "dice": {
+            "Models_transcriptions/RCF/RCFv6_1756-1758": 0.7819955693195455
+        },
+        "jaccard": {
+            "Models_transcriptions/RCF/RCFv6_1756-1758": 0.7819955693195455
+        },
+        "braycurtis": {
+            "Models_transcriptions/RCF/RCFv6_1756-1758": 0.7819955693195455
+        },
+        "WER": {
+            "Models_transcriptions/RCF/RCFv6_1756-1758": 78.58388559469829
+        },
+        "CER": {
+            "Models_transcriptions/RCF/RCFv6_1756-1758": 33.11901006914958
+        }
+    },
+    {
+        "cosine": {
+            "Models_transcriptions/Mcfondue/Mcfondue_1784": 0.04060980609250797
+        },
+        "dice": {
+            "Models_transcriptions/Mcfondue/Mcfondue_1784": 0.959390193907492
+        },
+        "jaccard": {
+            "Models_transcriptions/Mcfondue/Mcfondue_1784": 0.959390193907492
+        },
+        "braycurtis": {
+            "Models_transcriptions/Mcfondue/Mcfondue_1784": 0.959390193907492
+        },
+        "WER": {
+            "Models_transcriptions/Mcfondue/Mcfondue_1784": 38.53536226871866
+        },
+        "CER": {
+            "Models_transcriptions/Mcfondue/Mcfondue_1784": 9.93744818750471
+        }
+    },
+    {
+        "cosine": {
+            "Models_transcriptions/RCF/RCFv6_1784": 0.056194182011659266
+        },
+        "dice": {
+            "Models_transcriptions/RCF/RCFv6_1784": 0.9438058179883407
+        },
+        "jaccard": {
+            "Models_transcriptions/RCF/RCFv6_1784": 0.9438058179883407
+        },
+        "braycurtis": {
+            "Models_transcriptions/RCF/RCFv6_1784": 0.9438058179883407
+        },
+        "WER": {
+            "Models_transcriptions/RCF/RCFv6_1784": 53.82154591042711
+        },
+        "CER": {
+            "Models_transcriptions/RCF/RCFv6_1784": 15.437485869319467
+        }
     }
 ]

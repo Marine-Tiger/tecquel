@@ -4,12 +4,12 @@ from pathlib import Path
 
 from get_similarity import get_simil, sim_by_file
 
-results_file = Path("results_llama3-1.json")
+results_file = Path("results.json")
 
 warnings.filterwarnings('ignore')
 
-path_ref = "Original_transcriptions/llama3.1_tests/1692_s3"
-path_hyp1 = "Models_transcriptions/Llama3.1_tests/llama3-1_1692_v3"
+path_ref = "Ground_truth/R52_26.txt"
+path_hyp1 = "Models_transcriptions/RCF/RCFv6_1784"
 
 #le paramètre all_metrics peut être à False pour limiter le nombre de mesures calculées
 

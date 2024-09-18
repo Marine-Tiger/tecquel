@@ -118,5 +118,205 @@
         "CER": {
             "Models_transcriptions/Llama3.1_tests/llama3-1_1692_v3": 45.94272076372315
         }
+    },
+    {
+        "cosine": {
+            "Models_transcriptions/Llama3.1_tests/RCFv4_1706s1": 0.2912862831726163
+        },
+        "dice": {
+            "Models_transcriptions/Llama3.1_tests/RCFv4_1706s1": 0.7087137168273837
+        },
+        "jaccard": {
+            "Models_transcriptions/Llama3.1_tests/RCFv4_1706s1": 0.7087137168273837
+        },
+        "braycurtis": {
+            "Models_transcriptions/Llama3.1_tests/RCFv4_1706s1": 0.7087137168273837
+        },
+        "WER": {
+            "Models_transcriptions/Llama3.1_tests/RCFv4_1706s1": 61.25
+        },
+        "CER": {
+            "Models_transcriptions/Llama3.1_tests/RCFv4_1706s1": 21.893491124260354
+        }
+    },
+    {
+        "cosine": {
+            "Models_transcriptions/Llama3.1_tests/llama3-1_1706_v4": 0.260091812620054
+        },
+        "dice": {
+            "Models_transcriptions/Llama3.1_tests/llama3-1_1706_v4": 0.739908187379946
+        },
+        "jaccard": {
+            "Models_transcriptions/Llama3.1_tests/llama3-1_1706_v4": 0.739908187379946
+        },
+        "braycurtis": {
+            "Models_transcriptions/Llama3.1_tests/llama3-1_1706_v4": 0.739908187379946
+        },
+        "WER": {
+            "Models_transcriptions/Llama3.1_tests/llama3-1_1706_v4": 50.0
+        },
+        "CER": {
+            "Models_transcriptions/Llama3.1_tests/llama3-1_1706_v4": 30.17751479289941
+        }
+    },
+    {
+        "cosine": {
+            "Models_transcriptions/Llama3.1_tests/llama3-1_1706_v4": 0.24841075410909674
+        },
+        "dice": {
+            "Models_transcriptions/Llama3.1_tests/llama3-1_1706_v4": 0.7515892458909033
+        },
+        "jaccard": {
+            "Models_transcriptions/Llama3.1_tests/llama3-1_1706_v4": 0.7515892458909033
+        },
+        "braycurtis": {
+            "Models_transcriptions/Llama3.1_tests/llama3-1_1706_v4": 0.7515892458909033
+        },
+        "WER": {
+            "Models_transcriptions/Llama3.1_tests/llama3-1_1706_v4": 43.75
+        },
+        "CER": {
+            "Models_transcriptions/Llama3.1_tests/llama3-1_1706_v4": 25.04930966469428
+        }
+    },
+    {
+        "cosine": {
+            "Models_transcriptions/Llama3.1_tests/RCFv1_1700s1": 0.20111922132496252
+        },
+        "dice": {
+            "Models_transcriptions/Llama3.1_tests/RCFv1_1700s1": 0.7988807786750375
+        },
+        "jaccard": {
+            "Models_transcriptions/Llama3.1_tests/RCFv1_1700s1": 0.7988807786750375
+        },
+        "braycurtis": {
+            "Models_transcriptions/Llama3.1_tests/RCFv1_1700s1": 0.7988807786750375
+        },
+        "WER": {
+            "Models_transcriptions/Llama3.1_tests/RCFv1_1700s1": 67.6056338028169
+        },
+        "CER": {
+            "Models_transcriptions/Llama3.1_tests/RCFv1_1700s1": 25.585480093676814
+        }
+    },
+    {
+        "cosine": {
+            "Models_transcriptions/Llama3.1_tests/llama3-1_1700_v5": 0.20298586715869615
+        },
+        "dice": {
+            "Models_transcriptions/Llama3.1_tests/llama3-1_1700_v5": 0.7970141328413038
+        },
+        "jaccard": {
+            "Models_transcriptions/Llama3.1_tests/llama3-1_1700_v5": 0.7970141328413038
+        },
+        "braycurtis": {
+            "Models_transcriptions/Llama3.1_tests/llama3-1_1700_v5": 0.7970141328413038
+        },
+        "WER": {
+            "Models_transcriptions/Llama3.1_tests/llama3-1_1700_v5": 73.94366197183099
+        },
+        "CER": {
+            "Models_transcriptions/Llama3.1_tests/llama3-1_1700_v5": 43.266978922716625
+        }
+    },
+    {
+        "cosine": {
+            "Models_transcriptions/Llama3.1_tests/RCFv4_1692s4": 0.2390834443250991
+        },
+        "dice": {
+            "Models_transcriptions/Llama3.1_tests/RCFv4_1692s4": 0.7609165556749009
+        },
+        "jaccard": {
+            "Models_transcriptions/Llama3.1_tests/RCFv4_1692s4": 0.7609165556749009
+        },
+        "braycurtis": {
+            "Models_transcriptions/Llama3.1_tests/RCFv4_1692s4": 0.7609165556749009
+        },
+        "WER": {
+            "Models_transcriptions/Llama3.1_tests/RCFv4_1692s4": 66.11570247933884
+        },
+        "CER": {
+            "Models_transcriptions/Llama3.1_tests/RCFv4_1692s4": 22.83044058744993
+        }
+    },
+    {
+        "cosine": {
+            "Models_transcriptions/Llama3.1_tests/llama3-1_1692_v6": 0.22606227877795426
+        },
+        "dice": {
+            "Models_transcriptions/Llama3.1_tests/llama3-1_1692_v6": 0.7739377212220457
+        },
+        "jaccard": {
+            "Models_transcriptions/Llama3.1_tests/llama3-1_1692_v6": 0.7739377212220457
+        },
+        "braycurtis": {
+            "Models_transcriptions/Llama3.1_tests/llama3-1_1692_v6": 0.7739377212220457
+        },
+        "WER": {
+            "Models_transcriptions/Llama3.1_tests/llama3-1_1692_v6": 60.33057851239669
+        },
+        "CER": {
+            "Models_transcriptions/Llama3.1_tests/llama3-1_1692_v6": 26.7022696929239
+        }
+    },
+    {
+        "cosine": {
+            "Models_transcriptions/Mcfondue/Mcfondue_1685": 0.11191887133856082
+        },
+        "dice": {
+            "Models_transcriptions/Mcfondue/Mcfondue_1685": 0.8880811286614392
+        },
+        "jaccard": {
+            "Models_transcriptions/Mcfondue/Mcfondue_1685": 0.8880811286614392
+        },
+        "braycurtis": {
+            "Models_transcriptions/Mcfondue/Mcfondue_1685": 0.8880811286614392
+        },
+        "WER": {
+            "Models_transcriptions/Mcfondue/Mcfondue_1685": 71.27152803224624
+        },
+        "CER": {
+            "Models_transcriptions/Mcfondue/Mcfondue_1685": 32.059790732436475
+        }
+    },
+    {
+        "cosine": {
+            "Models_transcriptions/Llama3.1_tests/RCFv4_1685": 0.049308092188486974
+        },
+        "dice": {
+            "Models_transcriptions/Llama3.1_tests/RCFv4_1685": 0.950691907811513
+        },
+        "jaccard": {
+            "Models_transcriptions/Llama3.1_tests/RCFv4_1685": 0.950691907811513
+        },
+        "braycurtis": {
+            "Models_transcriptions/Llama3.1_tests/RCFv4_1685": 0.950691907811513
+        },
+        "WER": {
+            "Models_transcriptions/Llama3.1_tests/RCFv4_1685": 53.79426644182125
+        },
+        "CER": {
+            "Models_transcriptions/Llama3.1_tests/RCFv4_1685": 17.883874718407093
+        }
+    },
+    {
+        "cosine": {
+            "Models_transcriptions/Llama3.1_tests/llama3-1_1685_v5": 0.04553717255308953
+        },
+        "dice": {
+            "Models_transcriptions/Llama3.1_tests/llama3-1_1685_v5": 0.9544628274469105
+        },
+        "jaccard": {
+            "Models_transcriptions/Llama3.1_tests/llama3-1_1685_v5": 0.9544628274469105
+        },
+        "braycurtis": {
+            "Models_transcriptions/Llama3.1_tests/llama3-1_1685_v5": 0.9544628274469105
+        },
+        "WER": {
+            "Models_transcriptions/Llama3.1_tests/llama3-1_1685_v5": 50.96964586846543
+        },
+        "CER": {
+            "Models_transcriptions/Llama3.1_tests/llama3-1_1685_v5": 24.583969188285735
+        }
     }
 ]
