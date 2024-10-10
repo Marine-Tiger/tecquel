@@ -8,8 +8,8 @@ results_file = Path("results.json")
 
 warnings.filterwarnings('ignore')
 
-path_ref = "Ground_truth/R52_26.txt"
-path_hyp1 = "Models_transcriptions/RCF/RCFv6_1784"
+path_ref = "Ground_truth/Spinec_1689"
+path_hyp1 = "Models_transcriptions/Mcfondue/Mcfondue_1689"
 
 #le paramètre all_metrics peut être à False pour limiter le nombre de mesures calculées
 
