@@ -918,5 +918,145 @@
         "CER": {
             "Models_transcriptions/Mcfondue/Mcfondue_1689": 26.14165890027959
         }
+    },
+    {
+        "cosine": {
+            "Models_transcriptions/McFrench_1681-1683": 0.1245416381716381
+        },
+        "dice": {
+            "Models_transcriptions/McFrench_1681-1683": 0.8754583618283619
+        },
+        "jaccard": {
+            "Models_transcriptions/McFrench_1681-1683": 0.8754583618283619
+        },
+        "braycurtis": {
+            "Models_transcriptions/McFrench_1681-1683": 0.8754583618283619
+        },
+        "WER": {
+            "Models_transcriptions/McFrench_1681-1683": 75.81996308391311
+        },
+        "CER": {
+            "Models_transcriptions/McFrench_1681-1683": 38.02738532997871
+        }
+    },
+    {
+        "cosine": {
+            "Models_transcriptions/Mcfondue/Mcfondue_1681-1683": 0.12472277761156902
+        },
+        "dice": {
+            "Models_transcriptions/Mcfondue/Mcfondue_1681-1683": 0.875277222388431
+        },
+        "jaccard": {
+            "Models_transcriptions/Mcfondue/Mcfondue_1681-1683": 0.875277222388431
+        },
+        "braycurtis": {
+            "Models_transcriptions/Mcfondue/Mcfondue_1681-1683": 0.875277222388431
+        },
+        "WER": {
+            "Models_transcriptions/Mcfondue/Mcfondue_1681-1683": 80.1647025415306
+        },
+        "CER": {
+            "Models_transcriptions/Mcfondue/Mcfondue_1681-1683": 39.113605573833944
+        }
+    },
+    {
+        "cosine": {
+            "Models_transcriptions/McFrench_1681-1683": 0.12513945911553415
+        },
+        "dice": {
+            "Models_transcriptions/McFrench_1681-1683": 0.8748605408844659
+        },
+        "jaccard": {
+            "Models_transcriptions/McFrench_1681-1683": 0.8748605408844659
+        },
+        "braycurtis": {
+            "Models_transcriptions/McFrench_1681-1683": 0.8748605408844659
+        },
+        "WER": {
+            "Models_transcriptions/McFrench_1681-1683": 74.7560635628659
+        },
+        "CER": {
+            "Models_transcriptions/McFrench_1681-1683": 36.342245989304814
+        }
+    },
+    {
+        "cosine": {
+            "Mcfondue_1681-1784_cleaned.txt": 0.08216530060986471
+        },
+        "dice": {
+            "Mcfondue_1681-1784_cleaned.txt": 0.9178346993901353
+        },
+        "jaccard": {
+            "Mcfondue_1681-1784_cleaned.txt": 0.9178346993901353
+        },
+        "braycurtis": {
+            "Mcfondue_1681-1784_cleaned.txt": 0.9178346993901353
+        },
+        "WER": {
+            "Mcfondue_1681-1784_cleaned.txt": 87.30172488515213
+        },
+        "CER": {
+            "Mcfondue_1681-1784_cleaned.txt": 60.97786116322702
+        }
+    },
+    {
+        "cosine": {
+            "Mcfondue_1681-1784_cleaned.txt": 0.08216530060986471
+        },
+        "dice": {
+            "Mcfondue_1681-1784_cleaned.txt": 0.9178346993901353
+        },
+        "jaccard": {
+            "Mcfondue_1681-1784_cleaned.txt": 0.9178346993901353
+        },
+        "braycurtis": {
+            "Mcfondue_1681-1784_cleaned.txt": 0.9178346993901353
+        },
+        "WER": {
+            "Mcfondue_1681-1784_cleaned.txt": 87.30172488515213
+        },
+        "CER": {
+            "Mcfondue_1681-1784_cleaned.txt": 60.97786116322702
+        }
+    },
+    {
+        "cosine": {
+            "Mcfondue_1681-1784_cleaned.txt": 0.04939825641745321
+        },
+        "dice": {
+            "Mcfondue_1681-1784_cleaned.txt": 0.9506017435825468
+        },
+        "jaccard": {
+            "Mcfondue_1681-1784_cleaned.txt": 0.9506017435825468
+        },
+        "braycurtis": {
+            "Mcfondue_1681-1784_cleaned.txt": 0.9506017435825468
+        },
+        "WER": {
+            "Mcfondue_1681-1784_cleaned.txt": 54.84528040218428
+        },
+        "CER": {
+            "Mcfondue_1681-1784_cleaned.txt": 20.569606003752344
+        }
+    },
+    {
+        "cosine": {
+            "RCFv6_1688_cleaned.txt": 0.0611546962599977
+        },
+        "dice": {
+            "RCFv6_1688_cleaned.txt": 0.9388453037400023
+        },
+        "jaccard": {
+            "RCFv6_1688_cleaned.txt": 0.9388453037400023
+        },
+        "braycurtis": {
+            "RCFv6_1688_cleaned.txt": 0.9388453037400023
+        },
+        "WER": {
+            "RCFv6_1688_cleaned.txt": 51.94071983062809
+        },
+        "CER": {
+            "RCFv6_1688_cleaned.txt": 17.122874713613893
+        }
     }
 ]

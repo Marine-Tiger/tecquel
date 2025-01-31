@@ -8,8 +8,8 @@ results_file = Path("results.json")
 
 warnings.filterwarnings('ignore')
 
-path_ref = "Ground_truth/Spinec_1689"
-path_hyp1 = "Models_transcriptions/Mcfondue/Mcfondue_1689"
+path_ref = "GT_1688_cleaned.txt"
+path_hyp1 = "RCFv6_1688_cleaned.txt"
 
 #le paramètre all_metrics peut être à False pour limiter le nombre de mesures calculées
 
@@ -29,5 +29,4 @@ old_res.append(res)
 #with results_file.open(mode="w", encoding="utf-8") as f:
 with open(results_file, 'w', encoding="utf-8") as f:
     json.dump(old_res, f, indent=4, ensure_ascii=False)
-
 
