@@ -4,12 +4,12 @@ from pathlib import Path
 
 from get_similarity import get_simil, sim_by_file
 
-results_file = Path("results.json")
+results_file = Path("results_RCFv7.json")
 
 warnings.filterwarnings('ignore')
 
-path_ref = "GT_1688_cleaned.txt"
-path_hyp1 = "RCFv6_1688_cleaned.txt"
+path_ref = "/home/marine/Documents/HTR/tecquel/REF/R124_a"
+path_hyp1 = "/home/marine/Documents/HTR/tecquel/HYP/RCF/RCFv7_1763-1773"
 
 #le paramètre all_metrics peut être à False pour limiter le nombre de mesures calculées
 

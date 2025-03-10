@@ -1,0 +1,162 @@
+[
+    {
+        "cosine": {
+            "/home/marine/Documents/HTR/tecquel/HYP/RCF/RCFv7_1688": 0.04363942668254206
+        },
+        "dice": {
+            "/home/marine/Documents/HTR/tecquel/HYP/RCF/RCFv7_1688": 0.9563605733174579
+        },
+        "jaccard": {
+            "/home/marine/Documents/HTR/tecquel/HYP/RCF/RCFv7_1688": 0.9563605733174579
+        },
+        "braycurtis": {
+            "/home/marine/Documents/HTR/tecquel/HYP/RCF/RCFv7_1688": 0.9563605733174579
+        },
+        "WER": {
+            "/home/marine/Documents/HTR/tecquel/HYP/RCF/RCFv7_1688": 48.200423429781225
+        },
+        "CER": {
+            "/home/marine/Documents/HTR/tecquel/HYP/RCF/RCFv7_1688": 15.977330278548173
+        }
+    },
+    {
+        "cosine": {
+            "/home/marine/Documents/HTR/tecquel/HYP/RCF/RCFv5_1688": 0.09529991180630815
+        },
+        "dice": {
+            "/home/marine/Documents/HTR/tecquel/HYP/RCF/RCFv5_1688": 0.9047000881936919
+        },
+        "jaccard": {
+            "/home/marine/Documents/HTR/tecquel/HYP/RCF/RCFv5_1688": 0.9047000881936919
+        },
+        "braycurtis": {
+            "/home/marine/Documents/HTR/tecquel/HYP/RCF/RCFv5_1688": 0.9047000881936919
+        },
+        "WER": {
+            "/home/marine/Documents/HTR/tecquel/HYP/RCF/RCFv5_1688": 62.17360621030346
+        },
+        "CER": {
+            "/home/marine/Documents/HTR/tecquel/HYP/RCF/RCFv5_1688": 24.972868684432655
+        }
+    },
+    {
+        "cosine": {
+            "/home/marine/Documents/HTR/tecquel/HYP/Mcfrenchv3_1688": 0.12358529512117267
+        },
+        "dice": {
+            "/home/marine/Documents/HTR/tecquel/HYP/Mcfrenchv3_1688": 0.8764147048788273
+        },
+        "jaccard": {
+            "/home/marine/Documents/HTR/tecquel/HYP/Mcfrenchv3_1688": 0.8764147048788273
+        },
+        "braycurtis": {
+            "/home/marine/Documents/HTR/tecquel/HYP/Mcfrenchv3_1688": 0.8764147048788273
+        },
+        "WER": {
+            "/home/marine/Documents/HTR/tecquel/HYP/Mcfrenchv3_1688": 66.19618913196895
+        },
+        "CER": {
+            "/home/marine/Documents/HTR/tecquel/HYP/Mcfrenchv3_1688": 27.312191004461596
+        }
+    },
+    {
+        "cosine": {
+            "/home/marine/Documents/HTR/tecquel/HYP/Mcfondue/Mcfondue_1763-1773": 0.07486037704493231
+        },
+        "dice": {
+            "/home/marine/Documents/HTR/tecquel/HYP/Mcfondue/Mcfondue_1763-1773": 0.9251396229550677
+        },
+        "jaccard": {
+            "/home/marine/Documents/HTR/tecquel/HYP/Mcfondue/Mcfondue_1763-1773": 0.9251396229550677
+        },
+        "braycurtis": {
+            "/home/marine/Documents/HTR/tecquel/HYP/Mcfondue/Mcfondue_1763-1773": 0.9251396229550677
+        },
+        "WER": {
+            "/home/marine/Documents/HTR/tecquel/HYP/Mcfondue/Mcfondue_1763-1773": 68.83051907442152
+        },
+        "CER": {
+            "/home/marine/Documents/HTR/tecquel/HYP/Mcfondue/Mcfondue_1763-1773": 23.39730233578243
+        }
+    },
+    {
+        "cosine": {
+            "/home/marine/Documents/HTR/tecquel/HYP/McFrench_1763-1773": 0.0744687157709607
+        },
+        "dice": {
+            "/home/marine/Documents/HTR/tecquel/HYP/McFrench_1763-1773": 0.9255312842290393
+        },
+        "jaccard": {
+            "/home/marine/Documents/HTR/tecquel/HYP/McFrench_1763-1773": 0.9255312842290393
+        },
+        "braycurtis": {
+            "/home/marine/Documents/HTR/tecquel/HYP/McFrench_1763-1773": 0.9255312842290393
+        },
+        "WER": {
+            "/home/marine/Documents/HTR/tecquel/HYP/McFrench_1763-1773": 61.951219512195124
+        },
+        "CER": {
+            "/home/marine/Documents/HTR/tecquel/HYP/McFrench_1763-1773": 22.750301568154402
+        }
+    },
+    {
+        "cosine": {
+            "/home/marine/Documents/HTR/tecquel/HYP/RCF/RCFv5_1763-1773": 0.07948976768699745
+        },
+        "dice": {
+            "/home/marine/Documents/HTR/tecquel/HYP/RCF/RCFv5_1763-1773": 0.9205102323130026
+        },
+        "jaccard": {
+            "/home/marine/Documents/HTR/tecquel/HYP/RCF/RCFv5_1763-1773": 0.9205102323130026
+        },
+        "braycurtis": {
+            "/home/marine/Documents/HTR/tecquel/HYP/RCF/RCFv5_1763-1773": 0.9205102323130026
+        },
+        "WER": {
+            "/home/marine/Documents/HTR/tecquel/HYP/RCF/RCFv5_1763-1773": 72.39524702939337
+        },
+        "CER": {
+            "/home/marine/Documents/HTR/tecquel/HYP/RCF/RCFv5_1763-1773": 27.910955148590855
+        }
+    },
+    {
+        "cosine": {
+            "/home/marine/Documents/HTR/tecquel/HYP/RCF/RCFv6_1763-1773": 0.09897116226313074
+        },
+        "dice": {
+            "/home/marine/Documents/HTR/tecquel/HYP/RCF/RCFv6_1763-1773": 0.9010288377368693
+        },
+        "jaccard": {
+            "/home/marine/Documents/HTR/tecquel/HYP/RCF/RCFv6_1763-1773": 0.9010288377368693
+        },
+        "braycurtis": {
+            "/home/marine/Documents/HTR/tecquel/HYP/RCF/RCFv6_1763-1773": 0.9010288377368693
+        },
+        "WER": {
+            "/home/marine/Documents/HTR/tecquel/HYP/RCF/RCFv6_1763-1773": 75.53470919324577
+        },
+        "CER": {
+            "/home/marine/Documents/HTR/tecquel/HYP/RCF/RCFv6_1763-1773": 29.516394341484812
+        }
+    },
+    {
+        "cosine": {
+            "/home/marine/Documents/HTR/tecquel/HYP/RCF/RCFv7_1763-1773": 0.06580982606259012
+        },
+        "dice": {
+            "/home/marine/Documents/HTR/tecquel/HYP/RCF/RCFv7_1763-1773": 0.9341901739374099
+        },
+        "jaccard": {
+            "/home/marine/Documents/HTR/tecquel/HYP/RCF/RCFv7_1763-1773": 0.9341901739374099
+        },
+        "braycurtis": {
+            "/home/marine/Documents/HTR/tecquel/HYP/RCF/RCFv7_1763-1773": 0.9341901739374099
+        },
+        "WER": {
+            "/home/marine/Documents/HTR/tecquel/HYP/RCF/RCFv7_1763-1773": 72.10756722951845
+        },
+        "CER": {
+            "/home/marine/Documents/HTR/tecquel/HYP/RCF/RCFv7_1763-1773": 29.47033665972146
+        }
+    }
+]
