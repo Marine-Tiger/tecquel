@@ -8,8 +8,8 @@ results_file = Path("results_RCFv7.json")
 
 warnings.filterwarnings('ignore')
 
-path_ref = "/home/marine/Documents/HTR/tecquel/REF/R124_a"
-path_hyp1 = "/home/marine/Documents/HTR/tecquel/HYP/RCF/RCFv7_1763-1773"
+path_ref = "/home/marine/Documents/HTR/tecquel/REF/Spinec_1688"
+path_hyp1 = "/home/marine/Documents/HTR/tecquel/HYP/Mcfondue/Mcfondue_1688"
 
 #le paramètre all_metrics peut être à False pour limiter le nombre de mesures calculées
 
