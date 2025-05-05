@@ -4,12 +4,12 @@ from pathlib import Path
 
 from get_similarity import get_simil, sim_by_file
 
-results_file = Path("results_RCFv7.json")
+results_file = Path("results_FT_kraken.json")
 
 warnings.filterwarnings('ignore')
 
 path_ref = "/home/marine/Documents/HTR/tecquel/REF/Spinec_1688"
-path_hyp1 = "/home/marine/Documents/HTR/tecquel/HYP/Mcfondue/Mcfondue_1688"
+path_hyp1 = "/home/marine/Documents/HTR/tecquel/HYP/MCF_FT_1688_10p"
 
 #le paramètre all_metrics peut être à False pour limiter le nombre de mesures calculées
 

@@ -518,5 +518,25 @@
         "CER": {
             "/home/marine/Documents/HTR/tecquel/HYP/Mcfondue/Mcfondue_1688": 28.650669239117327
         }
+    },
+    {
+        "cosine": {
+            "/home/marine/Documents/HTR/tecquel/HYP/RCFv7_1688": 0.04676381646407224
+        },
+        "dice": {
+            "/home/marine/Documents/HTR/tecquel/HYP/RCFv7_1688": 0.9532361835359278
+        },
+        "jaccard": {
+            "/home/marine/Documents/HTR/tecquel/HYP/RCFv7_1688": 0.9532361835359278
+        },
+        "braycurtis": {
+            "/home/marine/Documents/HTR/tecquel/HYP/RCFv7_1688": 0.9532361835359278
+        },
+        "WER": {
+            "/home/marine/Documents/HTR/tecquel/HYP/RCFv7_1688": 49.47071277346507
+        },
+        "CER": {
+            "/home/marine/Documents/HTR/tecquel/HYP/RCFv7_1688": 16.423489690100084
+        }
     }
 ]
