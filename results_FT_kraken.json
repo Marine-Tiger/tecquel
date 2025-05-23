@@ -558,5 +558,105 @@
         "CER": {
             "/home/marine/Documents/HTR/tecquel/HYP/FScratch_411p_1688": 9.63328543762104
         }
+    },
+    {
+        "cosine": {
+            "/home/marine/Documents/HTR/tecquel/HYP/RCF_331p_FT_1688": 0.01706596096775992
+        },
+        "dice": {
+            "/home/marine/Documents/HTR/tecquel/HYP/RCF_331p_FT_1688": 0.9829340390322401
+        },
+        "jaccard": {
+            "/home/marine/Documents/HTR/tecquel/HYP/RCF_331p_FT_1688": 0.9829340390322401
+        },
+        "braycurtis": {
+            "/home/marine/Documents/HTR/tecquel/HYP/RCF_331p_FT_1688": 0.9829340390322401
+        },
+        "WER": {
+            "/home/marine/Documents/HTR/tecquel/HYP/RCF_331p_FT_1688": 34.609720176730484
+        },
+        "CER": {
+            "/home/marine/Documents/HTR/tecquel/HYP/RCF_331p_FT_1688": 9.9706378459424
+        }
+    },
+    {
+        "cosine": {
+            "/home/marine/Documents/HTR/tecquel/REF/cremma_mss_18_20p": 0.019795599485034843
+        },
+        "dice": {
+            "/home/marine/Documents/HTR/tecquel/REF/cremma_mss_18_20p": 0.9802044005149652
+        },
+        "jaccard": {
+            "/home/marine/Documents/HTR/tecquel/REF/cremma_mss_18_20p": 0.9802044005149652
+        },
+        "braycurtis": {
+            "/home/marine/Documents/HTR/tecquel/REF/cremma_mss_18_20p": 0.9802044005149652
+        },
+        "WER": {
+            "/home/marine/Documents/HTR/tecquel/REF/cremma_mss_18_20p": 34.76577622919086
+        },
+        "CER": {
+            "/home/marine/Documents/HTR/tecquel/REF/cremma_mss_18_20p": 8.298839655289408
+        }
+    },
+    {
+        "cosine": {
+            "/home/marine/Documents/HTR/tecquel/REF/cremma_mss_18_20p": 0.24283982870708287
+        },
+        "dice": {
+            "/home/marine/Documents/HTR/tecquel/REF/cremma_mss_18_20p": 0.7571601712929171
+        },
+        "jaccard": {
+            "/home/marine/Documents/HTR/tecquel/REF/cremma_mss_18_20p": 0.7571601712929171
+        },
+        "braycurtis": {
+            "/home/marine/Documents/HTR/tecquel/REF/cremma_mss_18_20p": 0.7571601712929171
+        },
+        "WER": {
+            "/home/marine/Documents/HTR/tecquel/REF/cremma_mss_18_20p": 97.16840536512667
+        },
+        "CER": {
+            "/home/marine/Documents/HTR/tecquel/REF/cremma_mss_18_20p": 77.03233988585923
+        }
+    },
+    {
+        "cosine": {
+            "/home/marine/Documents/HTR/tecquel/REF/cremma_mss_18_20p": 0.038407881015861234
+        },
+        "dice": {
+            "/home/marine/Documents/HTR/tecquel/REF/cremma_mss_18_20p": 0.9615921189841388
+        },
+        "jaccard": {
+            "/home/marine/Documents/HTR/tecquel/REF/cremma_mss_18_20p": 0.9615921189841388
+        },
+        "braycurtis": {
+            "/home/marine/Documents/HTR/tecquel/REF/cremma_mss_18_20p": 0.9615921189841388
+        },
+        "WER": {
+            "/home/marine/Documents/HTR/tecquel/REF/cremma_mss_18_20p": 47.80736100234925
+        },
+        "CER": {
+            "/home/marine/Documents/HTR/tecquel/REF/cremma_mss_18_20p": 12.474353713582273
+        }
+    },
+    {
+        "cosine": {
+            "/home/marine/Documents/HTR/tecquel/REF/cremma_mss_18_20p": 0.03298730959180518
+        },
+        "dice": {
+            "/home/marine/Documents/HTR/tecquel/REF/cremma_mss_18_20p": 0.9670126904081948
+        },
+        "jaccard": {
+            "/home/marine/Documents/HTR/tecquel/REF/cremma_mss_18_20p": 0.9670126904081948
+        },
+        "braycurtis": {
+            "/home/marine/Documents/HTR/tecquel/REF/cremma_mss_18_20p": 0.9670126904081948
+        },
+        "WER": {
+            "/home/marine/Documents/HTR/tecquel/REF/cremma_mss_18_20p": 46.510736196319016
+        },
+        "CER": {
+            "/home/marine/Documents/HTR/tecquel/REF/cremma_mss_18_20p": 11.515687742462397
+        }
     }
 ]

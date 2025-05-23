@@ -8,8 +8,8 @@ results_file = Path("results_FT_kraken.json")
 
 warnings.filterwarnings('ignore')
 
-path_ref = "/home/marine/Documents/HTR/tecquel/REF/Spinec_1688_complet"
-path_hyp1 = "/home/marine/Documents/HTR/tecquel/HYP/FScratch_411p_1688"
+path_ref = "/home/marine/Documents/HTR/tecquel/HYP/Fscratch_cremma_18e"
+path_hyp1 = "/home/marine/Documents/HTR/tecquel/REF/cremma_mss_18_20p"
 
 #le paramètre all_metrics peut être à False pour limiter le nombre de mesures calculées
 
