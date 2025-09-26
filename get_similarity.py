@@ -132,11 +132,11 @@ def process_data(path_hyp, path_ref, by_source= False):
   print(f"Output written : {path_out}")
   return results_for_viz
 
-if __name__=="__main__":
-  path_hyp = "dummy_data/cleaned/"
-  path_ref = "dummy_data/reference/"
-  if len(sys.argv)==3:
-    path_hyp = sys.argv[1]
-    path_ref = sys.argv[2]
-  res = process_data(path_hyp, path_ref)
+if __name__=="__main__": 
+  path_hyp = "dummy_data/cleaned/" 
+  path_ref = "dummy_data/reference/" 
+  if len(sys.argv)==3: 
+    path_hyp = sys.argv[1] 
+    path_ref = sys.argv[2] 
+    res = sim_by_file([path_ref] + path_hyp, all_metrics=True)
 

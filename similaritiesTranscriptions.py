@@ -4,16 +4,18 @@ from pathlib import Path
 
 from get_similarity import get_simil, sim_by_file
 
-results_file = Path("results_FT_kraken.json")
+results_file = Path("results_comparison_postocr.json")
 
 warnings.filterwarnings('ignore')
 
-path_ref = "/home/marine/Documents/HTR/tecquel/HYP/Fscratch_cremma_18e"
-path_hyp1 = "/home/marine/Documents/HTR/tecquel/REF/cremma_mss_18_20p"
+path_ref = "/home/marine/Documents/HTR/tecquel/REF/R52_1_10p_GT.txt"
+hyp_files=[
+    "/home/marine/Documents/HTR/tecquel/HYP/R52_1_10p_FT.txt",
+    "/home/marine/Documents/HTR/tecquel/HYP/R52_1_10p_FT_postcor.txt"]
 
 #le paramètre all_metrics peut être à False pour limiter le nombre de mesures calculées
 
-res = sim_by_file([path_ref, path_hyp1], all_metrics=True)
+res = sim_by_file([path_ref] + hyp_files, all_metrics=True)
 
 print(json.dumps(res, indent =2))
 
