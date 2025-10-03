@@ -1,0 +1,54 @@
+[
+    {
+        "cosine": {
+            "/home/marine/Documents/HTR/tecquel/HYP/MCFR/MSS-18_Arsenal.txt": 0.05392580012666781,
+            "/home/marine/Documents/HTR/tecquel/HYP/FT_MCF_431p/MSS-18_Arsenal.txt": 0.045725534935884826
+        },
+        "dice": {
+            "/home/marine/Documents/HTR/tecquel/HYP/MCFR/MSS-18_Arsenal.txt": 0.9460741998733322,
+            "/home/marine/Documents/HTR/tecquel/HYP/FT_MCF_431p/MSS-18_Arsenal.txt": 0.9542744650641152
+        },
+        "jaccard": {
+            "/home/marine/Documents/HTR/tecquel/HYP/MCFR/MSS-18_Arsenal.txt": 0.9460741998733322,
+            "/home/marine/Documents/HTR/tecquel/HYP/FT_MCF_431p/MSS-18_Arsenal.txt": 0.9542744650641152
+        },
+        "braycurtis": {
+            "/home/marine/Documents/HTR/tecquel/HYP/MCFR/MSS-18_Arsenal.txt": 0.9460741998733322,
+            "/home/marine/Documents/HTR/tecquel/HYP/FT_MCF_431p/MSS-18_Arsenal.txt": 0.9542744650641152
+        },
+        "WER": {
+            "/home/marine/Documents/HTR/tecquel/HYP/MCFR/MSS-18_Arsenal.txt": 52.4,
+            "/home/marine/Documents/HTR/tecquel/HYP/FT_MCF_431p/MSS-18_Arsenal.txt": 45.833333333333336
+        },
+        "CER": {
+            "/home/marine/Documents/HTR/tecquel/HYP/MCFR/MSS-18_Arsenal.txt": 17.139198829339673,
+            "/home/marine/Documents/HTR/tecquel/HYP/FT_MCF_431p/MSS-18_Arsenal.txt": 13.767453204072922
+        }
+    },
+    {
+        "cosine": {
+            "/home/marine/Documents/HTR/tecquel/HYP/MCFR/MSS-18_Genese.txt": 0.04836034169036141,
+            "/home/marine/Documents/HTR/tecquel/HYP/FT_MCF_431p/MSS-18_Genese.txt": 0.023508145749920994
+        },
+        "dice": {
+            "/home/marine/Documents/HTR/tecquel/HYP/MCFR/MSS-18_Genese.txt": 0.9516396583096386,
+            "/home/marine/Documents/HTR/tecquel/HYP/FT_MCF_431p/MSS-18_Genese.txt": 0.976491854250079
+        },
+        "jaccard": {
+            "/home/marine/Documents/HTR/tecquel/HYP/MCFR/MSS-18_Genese.txt": 0.9516396583096386,
+            "/home/marine/Documents/HTR/tecquel/HYP/FT_MCF_431p/MSS-18_Genese.txt": 0.976491854250079
+        },
+        "braycurtis": {
+            "/home/marine/Documents/HTR/tecquel/HYP/MCFR/MSS-18_Genese.txt": 0.9516396583096386,
+            "/home/marine/Documents/HTR/tecquel/HYP/FT_MCF_431p/MSS-18_Genese.txt": 0.976491854250079
+        },
+        "WER": {
+            "/home/marine/Documents/HTR/tecquel/HYP/MCFR/MSS-18_Genese.txt": 42.46889325474787,
+            "/home/marine/Documents/HTR/tecquel/HYP/FT_MCF_431p/MSS-18_Genese.txt": 35.592665356908974
+        },
+        "CER": {
+            "/home/marine/Documents/HTR/tecquel/HYP/MCFR/MSS-18_Genese.txt": 12.49687421855464,
+            "/home/marine/Documents/HTR/tecquel/HYP/FT_MCF_431p/MSS-18_Genese.txt": 8.858464616154038
+        }
+    }
+]

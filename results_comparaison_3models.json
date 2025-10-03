@@ -1,0 +1,162 @@
+[
+    {
+        "cosine": {
+            "/home/marine/Documents/HTR/tecquel/HYP/MCFR/R52_1_10p_Mcfr.txt": 0.20950869572331177,
+            "/home/marine/Documents/HTR/tecquel/HYP/RCF/RCFv7_R52_1.txt": 0.20029909674669877,
+            "/home/marine/Documents/HTR/tecquel/HYP/FT_MCF_431p/R52_1_10p_FT.txt": 0.01868757220421524
+        },
+        "dice": {
+            "/home/marine/Documents/HTR/tecquel/HYP/MCFR/R52_1_10p_Mcfr.txt": 0.7904913042766882,
+            "/home/marine/Documents/HTR/tecquel/HYP/RCF/RCFv7_R52_1.txt": 0.7997009032533012,
+            "/home/marine/Documents/HTR/tecquel/HYP/FT_MCF_431p/R52_1_10p_FT.txt": 0.9813124277957848
+        },
+        "jaccard": {
+            "/home/marine/Documents/HTR/tecquel/HYP/MCFR/R52_1_10p_Mcfr.txt": 0.7904913042766882,
+            "/home/marine/Documents/HTR/tecquel/HYP/RCF/RCFv7_R52_1.txt": 0.7997009032533012,
+            "/home/marine/Documents/HTR/tecquel/HYP/FT_MCF_431p/R52_1_10p_FT.txt": 0.9813124277957848
+        },
+        "braycurtis": {
+            "/home/marine/Documents/HTR/tecquel/HYP/MCFR/R52_1_10p_Mcfr.txt": 0.7904913042766882,
+            "/home/marine/Documents/HTR/tecquel/HYP/RCF/RCFv7_R52_1.txt": 0.7997009032533012,
+            "/home/marine/Documents/HTR/tecquel/HYP/FT_MCF_431p/R52_1_10p_FT.txt": 0.9813124277957848
+        },
+        "WER": {
+            "/home/marine/Documents/HTR/tecquel/HYP/MCFR/R52_1_10p_Mcfr.txt": 73.46368715083798,
+            "/home/marine/Documents/HTR/tecquel/HYP/RCF/RCFv7_R52_1.txt": 74.30167597765363,
+            "/home/marine/Documents/HTR/tecquel/HYP/FT_MCF_431p/R52_1_10p_FT.txt": 21.787709497206706
+        },
+        "CER": {
+            "/home/marine/Documents/HTR/tecquel/HYP/MCFR/R52_1_10p_Mcfr.txt": 25.761017719218536,
+            "/home/marine/Documents/HTR/tecquel/HYP/RCF/RCFv7_R52_1.txt": 28.05542935029532,
+            "/home/marine/Documents/HTR/tecquel/HYP/FT_MCF_431p/R52_1_10p_FT.txt": 5.134029986369832
+        }
+    },
+    {
+        "cosine": {
+            "/home/marine/Documents/HTR/tecquel/HYP/R52_1_10p_Mcfondu.txt": 0.20092879378751716,
+            "/home/marine/Documents/HTR/tecquel/HYP/RCF/RCFv7_R52_1.txt": 0.20029909674669877,
+            "/home/marine/Documents/HTR/tecquel/HYP/FT_MCF_431p/R52_1_10p_FT.txt": 0.01868757220421524
+        },
+        "dice": {
+            "/home/marine/Documents/HTR/tecquel/HYP/R52_1_10p_Mcfondu.txt": 0.7990712062124828,
+            "/home/marine/Documents/HTR/tecquel/HYP/RCF/RCFv7_R52_1.txt": 0.7997009032533012,
+            "/home/marine/Documents/HTR/tecquel/HYP/FT_MCF_431p/R52_1_10p_FT.txt": 0.9813124277957848
+        },
+        "jaccard": {
+            "/home/marine/Documents/HTR/tecquel/HYP/R52_1_10p_Mcfondu.txt": 0.7990712062124828,
+            "/home/marine/Documents/HTR/tecquel/HYP/RCF/RCFv7_R52_1.txt": 0.7997009032533012,
+            "/home/marine/Documents/HTR/tecquel/HYP/FT_MCF_431p/R52_1_10p_FT.txt": 0.9813124277957848
+        },
+        "braycurtis": {
+            "/home/marine/Documents/HTR/tecquel/HYP/R52_1_10p_Mcfondu.txt": 0.7990712062124828,
+            "/home/marine/Documents/HTR/tecquel/HYP/RCF/RCFv7_R52_1.txt": 0.7997009032533012,
+            "/home/marine/Documents/HTR/tecquel/HYP/FT_MCF_431p/R52_1_10p_FT.txt": 0.9813124277957848
+        },
+        "WER": {
+            "/home/marine/Documents/HTR/tecquel/HYP/R52_1_10p_Mcfondu.txt": 76.39664804469274,
+            "/home/marine/Documents/HTR/tecquel/HYP/RCF/RCFv7_R52_1.txt": 74.30167597765363,
+            "/home/marine/Documents/HTR/tecquel/HYP/FT_MCF_431p/R52_1_10p_FT.txt": 21.787709497206706
+        },
+        "CER": {
+            "/home/marine/Documents/HTR/tecquel/HYP/R52_1_10p_Mcfondu.txt": 26.07905497501136,
+            "/home/marine/Documents/HTR/tecquel/HYP/RCF/RCFv7_R52_1.txt": 28.05542935029532,
+            "/home/marine/Documents/HTR/tecquel/HYP/FT_MCF_431p/R52_1_10p_FT.txt": 5.134029986369832
+        }
+    },
+    {
+        "cosine": {
+            "/home/marine/Documents/HTR/tecquel/HYP/Mcfondue/Mcfo_FT_52_1.txt": 0.040543027409889576,
+            "/home/marine/Documents/HTR/tecquel/HYP/RCF/RCFv7_R52_1.txt": 0.20713616724762818,
+            "/home/marine/Documents/HTR/tecquel/HYP/FT_MCF_431p/R52_1_10p_FT.txt": 0.01868757220421524
+        },
+        "dice": {
+            "/home/marine/Documents/HTR/tecquel/HYP/Mcfondue/Mcfo_FT_52_1.txt": 0.9594569725901104,
+            "/home/marine/Documents/HTR/tecquel/HYP/RCF/RCFv7_R52_1.txt": 0.7928638327523718,
+            "/home/marine/Documents/HTR/tecquel/HYP/FT_MCF_431p/R52_1_10p_FT.txt": 0.9813124277957848
+        },
+        "jaccard": {
+            "/home/marine/Documents/HTR/tecquel/HYP/Mcfondue/Mcfo_FT_52_1.txt": 0.9594569725901104,
+            "/home/marine/Documents/HTR/tecquel/HYP/RCF/RCFv7_R52_1.txt": 0.7928638327523718,
+            "/home/marine/Documents/HTR/tecquel/HYP/FT_MCF_431p/R52_1_10p_FT.txt": 0.9813124277957848
+        },
+        "braycurtis": {
+            "/home/marine/Documents/HTR/tecquel/HYP/Mcfondue/Mcfo_FT_52_1.txt": 0.9594569725901104,
+            "/home/marine/Documents/HTR/tecquel/HYP/RCF/RCFv7_R52_1.txt": 0.7928638327523718,
+            "/home/marine/Documents/HTR/tecquel/HYP/FT_MCF_431p/R52_1_10p_FT.txt": 0.9813124277957848
+        },
+        "WER": {
+            "/home/marine/Documents/HTR/tecquel/HYP/Mcfondue/Mcfo_FT_52_1.txt": 40.502793296089386,
+            "/home/marine/Documents/HTR/tecquel/HYP/RCF/RCFv7_R52_1.txt": 76.81564245810056,
+            "/home/marine/Documents/HTR/tecquel/HYP/FT_MCF_431p/R52_1_10p_FT.txt": 21.787709497206706
+        },
+        "CER": {
+            "/home/marine/Documents/HTR/tecquel/HYP/Mcfondue/Mcfo_FT_52_1.txt": 10.699681962744208,
+            "/home/marine/Documents/HTR/tecquel/HYP/RCF/RCFv7_R52_1.txt": 27.714675147660156,
+            "/home/marine/Documents/HTR/tecquel/HYP/FT_MCF_431p/R52_1_10p_FT.txt": 5.134029986369832
+        }
+    },
+    {
+        "cosine": {
+            "/home/marine/Documents/HTR/tecquel/HYP/Mcfondue/Mcfo_FT_52_1.txt": 0.040543027409889576,
+            "/home/marine/Documents/HTR/tecquel/HYP/Mcfondue/R52_1_10p_Mcfondu.txt": 0.20092879378751716,
+            "/home/marine/Documents/HTR/tecquel/HYP/RCF/RCFv7_R52_1.txt": 0.20713616724762818,
+            "/home/marine/Documents/HTR/tecquel/HYP/FT_MCF_431p/R52_1_10p_FT.txt": 0.01868757220421524
+        },
+        "dice": {
+            "/home/marine/Documents/HTR/tecquel/HYP/Mcfondue/Mcfo_FT_52_1.txt": 0.9594569725901104,
+            "/home/marine/Documents/HTR/tecquel/HYP/Mcfondue/R52_1_10p_Mcfondu.txt": 0.7990712062124828,
+            "/home/marine/Documents/HTR/tecquel/HYP/RCF/RCFv7_R52_1.txt": 0.7928638327523718,
+            "/home/marine/Documents/HTR/tecquel/HYP/FT_MCF_431p/R52_1_10p_FT.txt": 0.9813124277957848
+        },
+        "jaccard": {
+            "/home/marine/Documents/HTR/tecquel/HYP/Mcfondue/Mcfo_FT_52_1.txt": 0.9594569725901104,
+            "/home/marine/Documents/HTR/tecquel/HYP/Mcfondue/R52_1_10p_Mcfondu.txt": 0.7990712062124828,
+            "/home/marine/Documents/HTR/tecquel/HYP/RCF/RCFv7_R52_1.txt": 0.7928638327523718,
+            "/home/marine/Documents/HTR/tecquel/HYP/FT_MCF_431p/R52_1_10p_FT.txt": 0.9813124277957848
+        },
+        "braycurtis": {
+            "/home/marine/Documents/HTR/tecquel/HYP/Mcfondue/Mcfo_FT_52_1.txt": 0.9594569725901104,
+            "/home/marine/Documents/HTR/tecquel/HYP/Mcfondue/R52_1_10p_Mcfondu.txt": 0.7990712062124828,
+            "/home/marine/Documents/HTR/tecquel/HYP/RCF/RCFv7_R52_1.txt": 0.7928638327523718,
+            "/home/marine/Documents/HTR/tecquel/HYP/FT_MCF_431p/R52_1_10p_FT.txt": 0.9813124277957848
+        },
+        "WER": {
+            "/home/marine/Documents/HTR/tecquel/HYP/Mcfondue/Mcfo_FT_52_1.txt": 40.502793296089386,
+            "/home/marine/Documents/HTR/tecquel/HYP/Mcfondue/R52_1_10p_Mcfondu.txt": 76.39664804469274,
+            "/home/marine/Documents/HTR/tecquel/HYP/RCF/RCFv7_R52_1.txt": 76.81564245810056,
+            "/home/marine/Documents/HTR/tecquel/HYP/FT_MCF_431p/R52_1_10p_FT.txt": 21.787709497206706
+        },
+        "CER": {
+            "/home/marine/Documents/HTR/tecquel/HYP/Mcfondue/Mcfo_FT_52_1.txt": 10.699681962744208,
+            "/home/marine/Documents/HTR/tecquel/HYP/Mcfondue/R52_1_10p_Mcfondu.txt": 26.07905497501136,
+            "/home/marine/Documents/HTR/tecquel/HYP/RCF/RCFv7_R52_1.txt": 27.714675147660156,
+            "/home/marine/Documents/HTR/tecquel/HYP/FT_MCF_431p/R52_1_10p_FT.txt": 5.134029986369832
+        }
+    },
+    {
+        "cosine": {
+            "/home/marine/Documents/HTR/tecquel/HYP/RCF/RCFv7_R52_1.txt": 0.20713616724762818,
+            "/home/marine/Documents/HTR/tecquel/HYP/MCFR/R52_1_10p_Mcfr.txt": 0.20950869572331177
+        },
+        "dice": {
+            "/home/marine/Documents/HTR/tecquel/HYP/RCF/RCFv7_R52_1.txt": 0.7928638327523718,
+            "/home/marine/Documents/HTR/tecquel/HYP/MCFR/R52_1_10p_Mcfr.txt": 0.7904913042766882
+        },
+        "jaccard": {
+            "/home/marine/Documents/HTR/tecquel/HYP/RCF/RCFv7_R52_1.txt": 0.7928638327523718,
+            "/home/marine/Documents/HTR/tecquel/HYP/MCFR/R52_1_10p_Mcfr.txt": 0.7904913042766882
+        },
+        "braycurtis": {
+            "/home/marine/Documents/HTR/tecquel/HYP/RCF/RCFv7_R52_1.txt": 0.7928638327523718,
+            "/home/marine/Documents/HTR/tecquel/HYP/MCFR/R52_1_10p_Mcfr.txt": 0.7904913042766882
+        },
+        "WER": {
+            "/home/marine/Documents/HTR/tecquel/HYP/RCF/RCFv7_R52_1.txt": 76.81564245810056,
+            "/home/marine/Documents/HTR/tecquel/HYP/MCFR/R52_1_10p_Mcfr.txt": 73.46368715083798
+        },
+        "CER": {
+            "/home/marine/Documents/HTR/tecquel/HYP/RCF/RCFv7_R52_1.txt": 27.714675147660156,
+            "/home/marine/Documents/HTR/tecquel/HYP/MCFR/R52_1_10p_Mcfr.txt": 25.761017719218536
+        }
+    }
+]
