@@ -1,0 +1,48 @@
+[
+    {
+        "cosine": {
+            "/home/marine/Documents/HTR/tecquel/HYP/FT_MCF_431p/R52_1_50p_FT.txt": 0.00800420791294787,
+            "/home/marine/Documents/HTR/tecquel/HYP/FT_MCF_431p/R52_1_50p_FT_seg_not_clean.txt": 0.029841280027609107
+        },
+        "dice": {
+            "/home/marine/Documents/HTR/tecquel/HYP/FT_MCF_431p/R52_1_50p_FT.txt": 0.9919957920870521,
+            "/home/marine/Documents/HTR/tecquel/HYP/FT_MCF_431p/R52_1_50p_FT_seg_not_clean.txt": 0.9701587199723909
+        },
+        "jaccard": {
+            "/home/marine/Documents/HTR/tecquel/HYP/FT_MCF_431p/R52_1_50p_FT.txt": 0.9919957920870521,
+            "/home/marine/Documents/HTR/tecquel/HYP/FT_MCF_431p/R52_1_50p_FT_seg_not_clean.txt": 0.9701587199723909
+        },
+        "braycurtis": {
+            "/home/marine/Documents/HTR/tecquel/HYP/FT_MCF_431p/R52_1_50p_FT.txt": 0.9919957920870521,
+            "/home/marine/Documents/HTR/tecquel/HYP/FT_MCF_431p/R52_1_50p_FT_seg_not_clean.txt": 0.9701587199723909
+        },
+        "WER": {
+            "/home/marine/Documents/HTR/tecquel/HYP/FT_MCF_431p/R52_1_50p_FT.txt": 24.138873701476218,
+            "/home/marine/Documents/HTR/tecquel/HYP/FT_MCF_431p/R52_1_50p_FT_seg_not_clean.txt": 41.470749043193
+        },
+        "CER": {
+            "/home/marine/Documents/HTR/tecquel/HYP/FT_MCF_431p/R52_1_50p_FT.txt": 6.858475210065549,
+            "/home/marine/Documents/HTR/tecquel/HYP/FT_MCF_431p/R52_1_50p_FT_seg_not_clean.txt": 21.543266904227707
+        }
+    },
+    {
+        "cosine": {
+            "/home/marine/Documents/HTR/tecquel/HYP/R52_1_postcor": 0.0010050734400471883
+        },
+        "dice": {
+            "/home/marine/Documents/HTR/tecquel/HYP/R52_1_postcor": 0.9989949265599528
+        },
+        "jaccard": {
+            "/home/marine/Documents/HTR/tecquel/HYP/R52_1_postcor": 0.9989949265599528
+        },
+        "braycurtis": {
+            "/home/marine/Documents/HTR/tecquel/HYP/R52_1_postcor": 0.9989949265599528
+        },
+        "WER": {
+            "/home/marine/Documents/HTR/tecquel/HYP/R52_1_postcor": 7.3537452159650085
+        },
+        "CER": {
+            "/home/marine/Documents/HTR/tecquel/HYP/R52_1_postcor": 1.9840746117636707
+        }
+    }
+]

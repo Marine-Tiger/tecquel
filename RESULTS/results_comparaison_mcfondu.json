@@ -1,0 +1,68 @@
+[
+    {
+        "cosine": {
+            "/home/marine/Documents/HTR/tecquel/HYP/Mcfondue/R52_0_1693-1700": 0.10996289385990587
+        },
+        "dice": {
+            "/home/marine/Documents/HTR/tecquel/HYP/Mcfondue/R52_0_1693-1700": 0.8900371061400941
+        },
+        "jaccard": {
+            "/home/marine/Documents/HTR/tecquel/HYP/Mcfondue/R52_0_1693-1700": 0.8900371061400941
+        },
+        "braycurtis": {
+            "/home/marine/Documents/HTR/tecquel/HYP/Mcfondue/R52_0_1693-1700": 0.8900371061400941
+        },
+        "WER": {
+            "/home/marine/Documents/HTR/tecquel/HYP/Mcfondue/R52_0_1693-1700": 76.21822033898304
+        },
+        "CER": {
+            "/home/marine/Documents/HTR/tecquel/HYP/Mcfondue/R52_0_1693-1700": 29.225648990459284
+        }
+    },
+    {
+        "cosine": {
+            "/home/marine/Documents/HTR/tecquel/HYP/R420_Mcfondu.txt": 0.1220593974163664
+        },
+        "dice": {
+            "/home/marine/Documents/HTR/tecquel/HYP/R420_Mcfondu.txt": 0.8779406025836336
+        },
+        "jaccard": {
+            "/home/marine/Documents/HTR/tecquel/HYP/R420_Mcfondu.txt": 0.8779406025836336
+        },
+        "braycurtis": {
+            "/home/marine/Documents/HTR/tecquel/HYP/R420_Mcfondu.txt": 0.8779406025836336
+        },
+        "WER": {
+            "/home/marine/Documents/HTR/tecquel/HYP/R420_Mcfondu.txt": 65.48448385053831
+        },
+        "CER": {
+            "/home/marine/Documents/HTR/tecquel/HYP/R420_Mcfondu.txt": 21.931355439208843
+        }
+    },
+    {
+        "cosine": {
+            "/home/marine/Documents/HTR/tecquel/HYP/R420_Mcfondu.txt": 0.1220593974163664,
+            "/home/marine/Documents/HTR/tecquel/HYP/R420_FT431p.txt": 0.05500277078163085
+        },
+        "dice": {
+            "/home/marine/Documents/HTR/tecquel/HYP/R420_Mcfondu.txt": 0.8779406025836336,
+            "/home/marine/Documents/HTR/tecquel/HYP/R420_FT431p.txt": 0.9449972292183692
+        },
+        "jaccard": {
+            "/home/marine/Documents/HTR/tecquel/HYP/R420_Mcfondu.txt": 0.8779406025836336,
+            "/home/marine/Documents/HTR/tecquel/HYP/R420_FT431p.txt": 0.9449972292183692
+        },
+        "braycurtis": {
+            "/home/marine/Documents/HTR/tecquel/HYP/R420_Mcfondu.txt": 0.8779406025836336,
+            "/home/marine/Documents/HTR/tecquel/HYP/R420_FT431p.txt": 0.9449972292183692
+        },
+        "WER": {
+            "/home/marine/Documents/HTR/tecquel/HYP/R420_Mcfondu.txt": 65.48448385053831,
+            "/home/marine/Documents/HTR/tecquel/HYP/R420_FT431p.txt": 52.91323622545915
+        },
+        "CER": {
+            "/home/marine/Documents/HTR/tecquel/HYP/R420_Mcfondu.txt": 21.931355439208843,
+            "/home/marine/Documents/HTR/tecquel/HYP/R420_FT431p.txt": 17.18229414564493
+        }
+    }
+]

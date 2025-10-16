@@ -4,15 +4,18 @@ from pathlib import Path
 
 from get_similarity import get_simil, sim_by_file
 
-results_file = Path("results_comparaison_3models.json")
+results_file = Path("results_comparaison_R52_1_50p.json")
 
 warnings.filterwarnings('ignore')
 
-path_ref = "/home/marine/Documents/HTR/tecquel/REF/R52_1_10p_GT.txt"
-hyp_files=[
-    "/home/marine/Documents/HTR/tecquel/HYP/RCF/RCFv7_R52_1.txt",
-    "/home/marine/Documents/HTR/tecquel/HYP/MCFR/R52_1_10p_Mcfr.txt"
-    ]
+path_ref = "/home/marine/Documents/HTR/tecquel/REF/R52_1_GT_50p.txt"
+hyp_files=["/home/marine/Documents/HTR/tecquel/HYP/Mcfondue/Mcfondue",
+           "/home/marine/Documents/HTR/tecquel/HYP/MCFR/Mcfrench",
+           "/home/marine/Documents/HTR/tecquel/HYP/RCF/RCF_FT_eScriptorium",
+           "/home/marine/Documents/HTR/tecquel/HYP/FT_331p/model_331p",
+           "/home/marine/Documents/HTR/tecquel/HYP/FT_MCF_431p/model_431p",
+           "/home/marine/Documents/HTR/tecquel/HYP/Postcorrection"
+           ]
 
 #le paramètre all_metrics peut être à False pour limiter le nombre de mesures calculées
 
